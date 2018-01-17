@@ -1,0 +1,156 @@
+# CHANGE BASE URL ON DEPLOYMENT
+baseURL = "/"
+# Page title
+title = "Machine Learning Network"
+# Copyright
+copyright = "&copy; 2018 University of Sheffield"
+
+# Theme
+#theme = "academic" # ORIGINAL: github.com/gcushen/hugo-academic
+theme = "academics" # FORK: github.com/wilocw/hugo-academics
+# Language Encoding
+languageCode = "en-gb"
+DefaultContentLanguage = "en"
+
+# Directory pointers
+publishdir = "public"
+contentdir = "content"
+layoutdir = "layouts"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+# Content settings
+canonifyurls = true
+metaDataFormat = "toml"
+paginate = 10
+footnotereturnlinkcontents = "<sup>^</sup>"
+
+###############################################################################
+# Option parameters
+[outputs]
+    home = ["HTML", "CSS"]
+
+[Languages.en] # Configure English version of website
+    languageCode = "en-gb"
+
+[taxonomies] # Taxonomies
+    tag = "tags"
+    category = "categories"
+    publication_type = "publication_types"
+
+################################################################################
+# Theme parameters
+[params]
+    # TODO : Replace with custom theme @trallard
+    color_theme="dark"
+    # TODO : Replace with custom font @trallard
+    font="classic"
+
+    # Group details
+    name = "Machine Learning Network"
+    role = "A researchers' forum" # ??
+    organizations = [{name="University of Sheffield", url=""}]
+    email = "w.ward@sheffield.ac.uk"
+    address = "Department Computer Science, University of Sheffield, Regent Court, Sheffield S1 4DP, UK"
+    map = 1
+    latitude = "53.381111"
+    longitude = "-1.479967"
+    zoom = 15
+
+    # Group icon [TODO]
+    gravatar=false
+    avatar = "" # file in static/img/ dir
+
+    logo=""
+
+    # Formatting options
+    date_format = "02 January 2006"
+    time_format = "3:04 PM"
+    math = true # Enable KaTeX
+    highlight = true # Syntax highlight
+    highlight_languages = [] # TODO : ?? e.g. Python
+    highlight_style = "solarized-light" # TODO : Match with custom theme @trallard
+
+    # Publication info [indexes] : (UNUSED ??)
+    publication_types = [
+        'Uncategorized',  # 0
+        'Conference proceedings',  # 1
+        'Journal',  # 2
+        'Work in progress',  # 3
+        'Technical report',  # 4
+        'Book',  # 5
+        'Book chapter'  # 6
+    ]
+
+[params.talks]
+      # Show talk time?
+      time = true
+################################################################################
+# SOCIAL MEDIA AND EXTERNALS
+[[params.social]] # github
+    icon = "github"
+    icon_pack = "fa"
+    link = "http://github.com/SheffieldML"
+
+[[params.social]] # twitter ??
+    icon = "twitter"
+    icon_pack = "fa"
+    link = "http://twitter.com/?=GROUP_USERNAME"
+
+# ... other social representations (facebook ??)
+
+################################################################################
+# Menu Options / Widgets
+
+# ABOUT / NEWS : Point of access, group description, recent news
+# TODO:
+#   - Get description of group
+#   - Create "recent news" widget
+[[menu.main]]
+    name = "Home"
+    url = "#home"
+    weight = 1
+
+# PEOPLE : Main PIs on front page, seperate page with info on others / labs
+# TODO:
+#   - Identify key names
+#   - Create "people" page
+#   - Get descriptions of members, labs, personal sites
+[[menu.main]]
+    name = "Events"
+    url = "talk"
+    weight = 2
+
+# RESEARCH : Current projects, highlighted features
+# TODO:
+#   - Research Widget
+#   - Research description template, inc. picture highlights
+[[menu.main]]
+    name = "Book Club"
+    url = "bookclub"
+    weight = 3
+
+# SOFTWARE : Software output, highlighted sites and repositorys
+# TODO:
+#   - Software widget
+[[menu.main]]
+    name = "Lectures"
+    url = "lectures"
+    weight = 4
+
+[[menu.main]]
+    name = "Blog"
+    url = "post"
+    weight=5
+
+# CONTACT INFORMATION : Address, directions, point-of-contact ?
+[[menu.main]]
+    name = "Contact"
+    url = "#contact"
+    weight = 6
+
+# OTHER
+# [external link to MLSS, network, etc.]
+# [[menu.main]]
+#   name = "Network"
+#   url = "sheffield.ac.uk/dcs/ml_network" # etc...
+#   weight = 7
