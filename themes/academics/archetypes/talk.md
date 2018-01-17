@@ -9,6 +9,7 @@ time_start = {{ .Date }}
 time_end = {{ .Date }}
 
 # Optional shortened abstract
+abstract="" # ignore this
 abstract_short = ""
 
 # Name of event and optional event URL.

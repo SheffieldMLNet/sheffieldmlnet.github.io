@@ -1,7 +1,7 @@
 # CHANGE BASE URL ON DEPLOYMENT
 baseURL = "/"
 # Page title
-title = "Machine Learning Network"
+title = "Machine Learning Research Network"
 # Copyright
 copyright = "&copy; 2018 University of Sheffield"
 
@@ -46,8 +46,8 @@ footnotereturnlinkcontents = "<sup>^</sup>"
     font="classic"
 
     # Group details
-    name = "Machine Learning Network"
-    role = "A researchers' forum" # ??
+    name = "Machine Learning Research Network"
+    role = "A researchers' forum for those working in and with machine learning" # ??
     organizations = [{name="University of Sheffield", url=""}]
     email = "w.ward@sheffield.ac.uk"
     address = "Department Computer Science, University of Sheffield, Regent Court, Sheffield S1 4DP, UK"
@@ -58,9 +58,9 @@ footnotereturnlinkcontents = "<sup>^</sup>"
 
     # Group icon [TODO]
     gravatar=false
-    avatar = "" # file in static/img/ dir
+    avatar = "uos_logo.png" # file in static/img/ dir
 
-    logo=""
+    #logo="uos_logo.png"
 
     # Formatting options
     date_format = "02 January 2006"
