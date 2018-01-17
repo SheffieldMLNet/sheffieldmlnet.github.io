@@ -1,0 +1,3 @@
+[submodule "themes/hugo-academics"]
+	path = themes/hugo-academics
+	url = https://github.com/wilocw/hugo-academics
