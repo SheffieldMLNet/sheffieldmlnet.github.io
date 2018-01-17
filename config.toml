@@ -1,5 +1,5 @@
 # CHANGE BASE URL ON DEPLOYMENT
-baseURL = "/"
+baseURL = "wilocw.github.io/sheffieldmlnet"
 # Page title
 title = "Machine Learning Research Network"
 # Copyright
