@@ -9,7 +9,7 @@ highlight=false
 list_format = 1
 
 [header]
-image = "note-taking.png"
+image = "empty-chair.png"
 caption = ""
 
 +++

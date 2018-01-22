@@ -40,9 +40,7 @@ footnotereturnlinkcontents = "<sup>^</sup>"
 ################################################################################
 # Theme parameters
 [params]
-    # TODO : Replace with custom theme @trallard
     color_theme="dark"
-    # TODO : Replace with custom font @trallard
     font="classic"
 
     # Group details
@@ -50,8 +48,12 @@ footnotereturnlinkcontents = "<sup>^</sup>"
     role = "A researchers' forum for those working in and with machine learning" # ??
     organizations = [{name="University of Sheffield", url=""}]
     email = "w.ward@sheffield.ac.uk"
-    address = "Department Computer Science, University of Sheffield, Regent Court, Sheffield S1 4DP, UK"
+    address = "Department Computer Science\nUniversity of Sheffield\n Regent Court\nSheffield S1 4DP\nUK"
+
+    subscribe_link = "https://groups.google.com/a/sheffield.ac.uk/forum/#!forum/mlnet-group/join"
+
     map = 1
+    map_api_key = "AIzaSyCDyFnj8i3WkKpxlBhPoARgI3X3FgYVDzo"
     latitude = "53.381111"
     longitude = "-1.479967"
     zoom = 15
@@ -60,7 +62,7 @@ footnotereturnlinkcontents = "<sup>^</sup>"
     gravatar=false
     avatar = "uos_logo.png" # file in static/img/ dir
 
-    #logo="uos_logo.png"
+    logo="banner_logo.png"
 
     # Formatting options
     date_format = "02 January 2006"
@@ -120,6 +122,11 @@ footnotereturnlinkcontents = "<sup>^</sup>"
     url = "talk"
     weight = 2
 
+[[menu.main]]
+    name = "Open Data Science"
+    url = "open-data-science"
+    weight = 3
+
 # RESEARCH : Current projects, highlighted features
 # TODO:
 #   - Research Widget
@@ -127,7 +134,7 @@ footnotereturnlinkcontents = "<sup>^</sup>"
 [[menu.main]]
     name = "Book Club"
     url = "bookclub"
-    weight = 3
+    weight = 4
 
 # SOFTWARE : Software output, highlighted sites and repositorys
 # TODO:
@@ -135,18 +142,23 @@ footnotereturnlinkcontents = "<sup>^</sup>"
 [[menu.main]]
     name = "Lectures"
     url = "lectures"
-    weight = 4
+    weight = 5
 
 [[menu.main]]
     name = "Blog"
     url = "post"
-    weight=5
+    weight=6
+
+[[menu.main]]
+    name = "Resources"
+    url = "resources"
+    weight=7
 
 # CONTACT INFORMATION : Address, directions, point-of-contact ?
 [[menu.main]]
     name = "Contact"
-    url = "#contact"
-    weight = 6
+    url = "contact"
+    weight = 8
 
 # OTHER
 # [external link to MLSS, network, etc.]
