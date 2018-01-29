@@ -91,12 +91,12 @@ footnotereturnlinkcontents = "<sup>^</sup>"
 [[params.social]] # github
     icon = "github"
     icon_pack = "fa"
-    link = "http://github.com/SheffieldML"
+    link = "http://github.com/SheffieldMLNet"
 
 [[params.social]] # twitter ??
     icon = "twitter"
     icon_pack = "fa"
-    link = "http://twitter.com/?=GROUP_USERNAME"
+    link = "http://twitter.com/SheffieldMLNet"
 
 # ... other social representations (facebook ??)
 
@@ -122,10 +122,10 @@ footnotereturnlinkcontents = "<sup>^</sup>"
     url = "talk"
     weight = 2
 
-[[menu.main]]
-    name = "Open Data Science"
-    url = "open-data-science"
-    weight = 3
+# [[menu.main]]
+#     name = "Open Data Science"
+#     url = "open-data-science"
+#     weight = 3
 
 # RESEARCH : Current projects, highlighted features
 # TODO:
@@ -139,10 +139,10 @@ footnotereturnlinkcontents = "<sup>^</sup>"
 # SOFTWARE : Software output, highlighted sites and repositorys
 # TODO:
 #   - Software widget
-[[menu.main]]
-    name = "Lectures"
-    url = "lectures"
-    weight = 5
+# [[menu.main]]
+#     name = "Lectures"
+#     url = "lectures"
+#     weight = 5
 
 [[menu.main]]
     name = "Blog"

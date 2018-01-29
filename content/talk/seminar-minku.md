@@ -2,7 +2,7 @@
 title = "Learning Non-Stationary Data Streams With Gradually Evolved Classes"
 authors = ["Dr Leandro Minku, University of Leicester"]
 
-date = 2017-12-29T00:00:00 # Schedule page publish date.
+date = 2017-11-29T00:00:00 # Schedule page publish date.
 draft = false
 
 # Talk start and end times

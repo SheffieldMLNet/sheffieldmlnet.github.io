@@ -15,4 +15,4 @@ The book club is run by Postdocs and PhD students from the Machine Learning grou
 
 The book club is currently working through <a href="https://www.microsoft.com/en-us/research/people/cmbishop/#!prml-book" target="_blank">Pattern Recognition and Machine Learning</a> by Christopher M. Bishop. The group meets fortnightly, and is open to anyone. It is regularly attended by students and faculty from the Machine Learning and Natural Language Processing research groups.
 
-Book club sessions take place on alternate **Fridays 12pm-2pm** in **COM-G22, Department of Computer Science**. The next session is on Friday 9th February. If you would like to join the mailing list, please @XXX@
+Book club sessions take place on alternate **Fridays 12pm-2pm** in **COM-G22, Department of Computer Science**. The sessions in 2018 will start from Friday 9th February. If you would like to join the mailing list, please @XXX@

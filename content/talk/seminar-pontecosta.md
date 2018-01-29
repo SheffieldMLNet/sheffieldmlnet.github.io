@@ -1,7 +1,7 @@
 +++
 title = " Cortical microcircuits as gated-recurrent neural networks"
 authors = ["Dr Rui Ponte Costa, University of Bern (Switzerland) and University of Oxford"]
-date = 2017-12-23T17:37:48Z  # Schedule page publish date.
+date = 2017-11-23T17:37:48Z  # Schedule page publish date.
 draft = false
 
 # Talk start and end times
@@ -9,7 +9,8 @@ time_start = 2017-11-23T15:30:00Z
 time_end = 2017-11-23T16:30:00Z
 
 # Optional shortened abstract
-abstract_short="my short abstract"
+abstract=""
+abstract_short=""
 
 # Name of event and optional event URL.
 event = "Machine Learning Seminar"

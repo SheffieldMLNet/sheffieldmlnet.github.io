@@ -10,7 +10,7 @@ time_end = 2017-12-18T17:30:00
 
 # Abstract and optional shortened version.
 abstract = ""
-abstract_short = "[short abstract]"
+abstract_short = ""
 
 biography = ""
 

@@ -1,15 +1,15 @@
 +++
 # Upcoming Seminars
 
-date = "2016-04-20T00:00:00"
+date = "2018-02-28"
 draft = false
 
-title = "Lecture Series"
-subtitle = "Topics in Machine Learning"
+title = "Upcoming Events"
+subtitle = ""
 widget = "talks"
 
 # Order that this section will appear in.
-weight = 35
+weight = 25
 
 # Number of talks to list.
 count = 2
@@ -19,7 +19,7 @@ count = 2
 #   1 = Detailed
 list_format = 1
 
-tags_exclude=[""]
-tags_include=["lecture"]
+tags_exclude=["seminar"]
+tags_include=["event"]
 
 +++

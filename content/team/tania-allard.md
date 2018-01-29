@@ -8,6 +8,8 @@ title = "Tania Allard"
 # Project summary to display on homepage.
 summary = "Research Software Engineer"
 
+weight = 4
+
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "tania.png"
 
