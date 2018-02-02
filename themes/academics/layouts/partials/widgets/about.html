@@ -20,19 +20,19 @@
 
         {{/* Support legacy `organization` option. */}}
         {{ if $.Site.Params.organization }}
-        <h3 itemprop="worksFor" itemscope itemtype="http://schema.org/Organization">
+        <h2 itemprop="worksFor" itemscope itemtype="http://schema.org/Organization">
           {{ with $.Site.Params.organization_url }}<a href="{{ . }}" target="_blank" itemprop="url" rel="noopener">{{ end }}
             <span itemprop="name">{{ $.Site.Params.organization }}</span>
           {{ if $.Site.Params.organization_url }}</a>{{ end }}
-        </h3>
+      </h2>
         {{ end }}
 
         {{ range $.Site.Params.organizations }}
-        <h3 itemprop="worksFor" itemscope itemtype="http://schema.org/Organization">
+        <h2 style="font-size:1.1em" itemprop="worksFor" itemscope itemtype="http://schema.org/Organization">
           {{ with .url }}<a href="{{ . }}" target="_blank" itemprop="url" rel="noopener">{{ end }}
-          <span itemprop="name">{{ .name }}</span>
+          <span itemprop="name">{{ replace .name "\n"  "<br/>" | safeHTML }}</span>
           {{ if .url }}</a>{{ end }}
-        </h3>
+       </h2>
         {{ end }}
       </div>
 
@@ -51,7 +51,7 @@
 
     </div>
   </div>
-  <div class="col-xs-12 col-md-8" itemprop="description">
+  <div class="col-xs-12 col-md-8" style="text-align:justify" itemprop="description">
 
     {{ $page.Content }}
 

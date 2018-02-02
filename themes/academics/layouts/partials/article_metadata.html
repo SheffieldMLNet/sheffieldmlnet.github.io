@@ -18,6 +18,11 @@
   </span>
   {{ end }}
 
+  {{ if $.Params.author }}
+  <span class="middot-divider"></span>
+  <span>by <a href="/tags/{{ lower $.Params.author }}">{{ lower $.Params.author }}</a></span>
+  {{ end }}
+
   {{ $comments_enabled := and $.Site.DisqusShortname (not (or $.Site.Params.disable_comments $.Params.disable_comments)) }}
   {{ if and $comments_enabled ($.Site.Params.comment_count | default true) }}
   <span class="middot-divider"></span>

@@ -46,8 +46,8 @@ footnotereturnlinkcontents = "<sup>^</sup>"
     # Group details
     name = "Machine Learning Research Network"
     role = "A researchers' forum for those working in and with machine learning" # ??
-    organizations = [{name="University of Sheffield", url=""}]
-    email = "w.ward@sheffield.ac.uk"
+    organizations = [{name="Department of Computer Science\nUniversity of Sheffield", url="https://www.sheffield.ac.uk/dcs"}]
+    email = "mlnet@sheffield.ac.uk"
     address = "Department Computer Science\nUniversity of Sheffield\n Regent Court\nSheffield S1 4DP\nUK"
 
     subscribe_link = "https://groups.google.com/a/sheffield.ac.uk/forum/#!forum/mlnet-group/join"
@@ -88,15 +88,23 @@ footnotereturnlinkcontents = "<sup>^</sup>"
       time = true
 ################################################################################
 # SOCIAL MEDIA AND EXTERNALS
+[[params.social]]
+    icon = "envelope"
+    icon_pack = "fa"
+    link = "mailto:mlnet@sheffield.ac.uk"
+    
+[[params.social]] # twitter ??
+    icon = "twitter"
+    icon_pack = "fa"
+    info = "Follow us on Twitter"
+    link = "http://twitter.com/SheffieldMLNet"
+
 [[params.social]] # github
     icon = "github"
     icon_pack = "fa"
     link = "http://github.com/SheffieldMLNet"
+    info = "GitHub"
 
-[[params.social]] # twitter ??
-    icon = "twitter"
-    icon_pack = "fa"
-    link = "http://twitter.com/SheffieldMLNet"
 
 # ... other social representations (facebook ??)
 

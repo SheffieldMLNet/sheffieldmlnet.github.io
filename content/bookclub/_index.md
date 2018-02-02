@@ -16,3 +16,5 @@ The book club is run by Postdocs and PhD students from the Machine Learning grou
 The book club is currently working through <a href="https://www.microsoft.com/en-us/research/people/cmbishop/#!prml-book" target="_blank">Pattern Recognition and Machine Learning</a> by Christopher M. Bishop. The group meets fortnightly, and is open to anyone. It is regularly attended by students and faculty from the Machine Learning and Natural Language Processing research groups.
 
 Book club sessions take place on alternate **Fridays 12pm-2pm** in **COM-G22, Department of Computer Science**. The sessions in 2018 will start from Friday 9th February. If you would like to join the mailing list, please @XXX@
+
+The University of Sheffield library entry for the book is <a href="http://find.shef.ac.uk/SFD_VU2:SCOP_EVERYTHING:44SFD_ALMA_DS21203270100001441" target="_blank" rel="nofollow">available here</a>.

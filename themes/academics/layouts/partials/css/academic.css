@@ -466,7 +466,7 @@ article {
 }
 
 .article-container {
-  max-width: 760px;
+  max-width: 960px;
   padding: 1rem 20px 0 20px;
   margin: 0 auto 0 auto;
 }
@@ -552,6 +552,10 @@ article {
 
 .middot-divider::after {
   content: '\00B7';
+}
+
+.article-style {
+    text-align: justify;
 }
 
 .article-style img,

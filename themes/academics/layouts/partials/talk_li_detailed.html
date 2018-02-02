@@ -42,8 +42,20 @@
           {{ with .Params.time_end }}
             &mdash; {{ (time .).Format ($.Site.Params.time_format | default "3:04 PM") }}
           {{ end }}
+          {{ if .Params.location }}
+            <span class="middot-divider"></span>
+          {{ end }}
+        {{ end }}
+        {{ if .Params.location }}
+          {{ .Params.location | markdownify }}
         {{ end }}
       </div>
+
+      <!--div class="talk-metadata">
+          {{ if .Params.location }}
+            {{ .Params.location | markdownify }}
+          {{ end }}
+      </div-->
 
       <div class="talk-metadata">
         {{ if .Params.event }}
