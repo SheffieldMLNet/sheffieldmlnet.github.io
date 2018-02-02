@@ -1,5 +1,5 @@
 +++
-title = " Cortical microcircuits as gated-recurrent neural networks"
+title = " Cortical Microcircuits as Gated-Recurrent Neural Networks"
 authors = ["Dr Rui Ponte Costa, University of Bern (Switzerland) and University of Oxford"]
 date = 2017-11-23T17:37:48Z  # Schedule page publish date.
 draft = false

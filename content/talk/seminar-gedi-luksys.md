@@ -1,5 +1,5 @@
 +++
-title = "Neuroinformatics of learning, memory and decision making: from model-based analyses to individualized cognitive neurotherapeutics"
+title = "Neuroinformatics of Learning, Memory and Decision Making: from Model-based Analyses to Individualized Cognitive Neurotherapeutics"
 authors = ["Dr Gedi Luksys, University of Edinburgh"]
 
 date = 2017-12-18T00:00:00
