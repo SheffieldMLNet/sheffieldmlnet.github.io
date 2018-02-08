@@ -1,5 +1,5 @@
 +++
-title = ""
+title = "Bayesian Deep Learning and Deep GPs"
 authors = ["Andreas Damianou"]
 date = 2018-02-02T13:02:25Z  # Schedule page publish date.
 draft = true

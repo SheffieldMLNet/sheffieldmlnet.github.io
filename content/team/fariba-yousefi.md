@@ -18,7 +18,7 @@ image_preview = "fariba.png"
 tags = ["team"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "https://www.dcs.shef.ac.uk/cgi-intranet/public/makeperson?F.Yousefi"
 
 # Does the project detail page use math formatting?
 math = false

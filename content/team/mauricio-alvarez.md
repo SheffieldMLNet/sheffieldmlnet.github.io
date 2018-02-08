@@ -18,7 +18,7 @@ image_preview = "mauricio.png"
 tags = ["team"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "https://sites.google.com/site/maalvarezl/"
 
 # Does the project detail page use math formatting?
 math = false

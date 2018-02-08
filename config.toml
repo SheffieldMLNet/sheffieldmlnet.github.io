@@ -58,6 +58,8 @@ footnotereturnlinkcontents = "<sup>^</sup>"
     longitude = "-1.479967"
     zoom = 15
 
+    sharing=true
+
     # Group icon [TODO]
     gravatar=false
     avatar = "uos_logo.png" # file in static/img/ dir
@@ -70,7 +72,7 @@ footnotereturnlinkcontents = "<sup>^</sup>"
     math = true # Enable KaTeX
     highlight = true # Syntax highlight
     highlight_languages = [] # TODO : ?? e.g. Python
-    highlight_style = "solarized-light" # TODO : Match with custom theme @trallard
+    highlight_style = "solarized-dark" # TODO : Match with custom theme @trallard
 
     # Publication info [indexes] : (UNUSED ??)
     publication_types = [
@@ -92,7 +94,7 @@ footnotereturnlinkcontents = "<sup>^</sup>"
     icon = "envelope"
     icon_pack = "fa"
     link = "mailto:mlnet@sheffield.ac.uk"
-    
+
 [[params.social]] # twitter ??
     icon = "twitter"
     icon_pack = "fa"

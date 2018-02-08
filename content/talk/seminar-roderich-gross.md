@@ -1,5 +1,5 @@
 +++
-title = ""
+title = "Generative Adversarial Networks"
 authors = ["Roderich Gross"]
 date = 2018-02-02T13:04:14Z  # Schedule page publish date.
 draft = true

@@ -8,14 +8,9 @@ author="Wil"
 tags=["wil"]
 categories = []
 
-summary= "This is just a placeholder for a blog post"
+summary= "This blogpost is a placeholder. It doesn't mean anything."
 
 [header]
     image = ""
     caption = ""
 +++
-
-Hello World
------------
-
-Hi
