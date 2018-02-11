@@ -15,7 +15,7 @@
       {{ end }}
 
       <div class="portrait-title">
-        <h2 itemprop="name">{{ $.Site.Params.name }}</h2>
+        <!--h2 itemprop="name">{{ $.Site.Params.name }}</h2-->
         {{ with $.Site.Params.role }}<h3 itemprop="jobTitle">{{ . }}</h3>{{ end }}
 
         {{/* Support legacy `organization` option. */}}
@@ -51,7 +51,7 @@
 
     </div>
   </div>
-  <div class="col-xs-12 col-md-8" style="text-align:justify" itemprop="description">
+  <div class="col-xs-12 col-md-8" style="text-align:justify; padding-top:10px;" itemprop="description">
 
     {{ $page.Content }}
 

@@ -249,6 +249,10 @@ small,
   animation-delay: 0.15s;
 }
 
+.home-section#about {
+  padding-top: 20px;
+}
+
 .home-section:first-of-type {
   padding-top: 50px;
 }
@@ -282,7 +286,8 @@ small,
 
 .hero-overlay {
   position: relative;
-  padding: 3em 0;
+  padding: 0;
+  height: 300px;
   clear: both;
   background-size: cover;
   background-repeat: no-repeat;
@@ -329,14 +334,14 @@ small,
 
 #profile {
   text-align: center;
-  padding: 30px 10px;
+  padding: 0 10px 30px 10px;
   position: relative;
 }
 
 #profile .portrait {
   background-image: url('../img/portrait.jpg');
-  width: 200px;
-  height: 200px;
+  width: 273px;
+  height: 273px;
   margin: 0 auto;
   border-radius: 50%;
   background-size: cover;
@@ -1033,6 +1038,7 @@ nav#navbar-main li {
   background-color: transparent !important; /* Override Bootstrap. */
 }
 
+
 .navbar-brand,
 .navbar-nav li a {
   height: inherit;
@@ -1041,8 +1047,13 @@ nav#navbar-main li {
   padding-bottom: 10px;
 }
 
+.navbar-brand {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
 .navbar-brand img {
-  max-height: 50px;
+  max-height: 70px;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
