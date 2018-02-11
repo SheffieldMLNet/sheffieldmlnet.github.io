@@ -6,7 +6,7 @@ date = "2017-12-12T18:37:00"
 draft = false
 
 title="Blog"
-subtitle="this is a subtitle"
+subtitle="A regular blog series from the Machine Learning Research Network"
 widget = "posts"
 
 weight = 40
