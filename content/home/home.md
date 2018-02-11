@@ -12,7 +12,7 @@ weight = 1
 # Overlay a color or image (optional).
 #   Deactivate an option by commenting out the line, prefixing it with `#`.
 [header]
-  overlay_color = "#666"  # An HTML color value.
-  overlay_img = "nn_placeholder.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+#  overlay_color = "#666"  # An HTML color value.
+  overlay_img = "hero-banner.png"  # Image path relative to your `static/img/` folder.
+#  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 +++

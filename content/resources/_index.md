@@ -23,4 +23,4 @@ Other resources from organisations related to the network include:
 - [The Sheffield Machine Learning group Github repositories](https://github.com/SheffieldML)
 
 ## Website
-This website is generated using [Hugo](https://gohugo.io) and [Travis CI](https://travis-ci.org/wilocw/sheffieldmlnet/), and hosted on _GitHub Pages_. The code for the site is available open source under the MIT license, and can be found on [GitHub](https://github.com/SheffieldMLNet/sheffieldmlnet.github.io). The theme used is a modified version of the [_Academic_](https://github.com/gcushen/hugo-academic) theme for Hugo.
+This website is generated using [Hugo](https://gohugo.io) and [Travis CI](https://travis-ci.org/SheffieldMLNet/sheffieldmlnet.github.io), and hosted on _GitHub Pages_. The code for the site is available open source under the MIT license, and can be found on [GitHub](https://github.com/SheffieldMLNet/sheffieldmlnet.github.io). The theme used is a modified version of the [_Academic_](https://github.com/gcushen/hugo-academic) theme for Hugo.
