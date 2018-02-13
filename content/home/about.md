@@ -13,6 +13,6 @@ The *Machine Learning Research Network* is a forum for researchers working with 
 
 The aim of the network is to promote collaboration and to provide support for researchers and students who are working with or have interest in machine learning topics. We also promote the <a href="http://opendsi.cc" target="_blank">Open Data Science Initiative</a> and the philosophy of resource sharing in the research community, particularly research software.
 
-The research network is open to anyone within the university, and aims to be foster an accessible environment. If you would like to get involved with the network, you can come along to any of the activities we host, or get in touch.
+The research network is open to anyone within the university, and aims to foster an accessible environment. If you would like to get involved with the network, you can come along to any of the activities we host, or get in touch.
 
 <a href="https://groups.google.com/a/sheffield.ac.uk/forum/#!forum/mlnet-group/join" target="_blank" ref="nofollow">Sign up to the _Machine Learning Research Network_ mailing list here.</a>
