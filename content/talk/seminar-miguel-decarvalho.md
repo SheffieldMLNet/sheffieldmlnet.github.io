@@ -1,7 +1,7 @@
 +++
 title = "On Some Geometrical Aspects of Bayesian Inference"
 authors = ["Miguel De Carvalho, University of Edinburgh"]
-date = 2018-02-06T14:47:19Z  # Schedule page publish date.
+date = 2018-02-11T14:47:19Z  # Schedule page publish date.
 draft = false
 
 # Talk start and end times
@@ -51,7 +51,6 @@ caption = ""
 
 In this talk I will provide a geometric interpretation to Bayesian inference that allows me to introduce a natural measure of the level of agreement between priors, likelihoods, and posteriors. The starting point for the construction of our geometry is the observation that the marginal likelihood can be regarded as an inner product between the prior and the likelihood. A key concept in our geometry is that of compatibility, a measure which is based on the same construction principles as Pearson correlation, but which can be used to assess how much the prior agrees with the likelihood, to gauge the sensitivity of the posterior to the prior, and to quantify the coherency of the opinions of two experts. Estimators for all the quantities involved in our geometric setup are discussed, which can be directly computed from the posterior simulation output. Some examples are used to illustrate our methods, including data related to  on-the-job drug usage, midge wing length, and prostate cancer. Joint work with G. Page and B. Barney.
 
+## Biography
 
-[ ](## Biography)
-
-[ ]([enter bio here])
+TBA

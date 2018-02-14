@@ -1,8 +1,8 @@
 +++
 title = "Bayesian Deep Learning and Deep GPs"
-authors = ["Andreas Damianou"]
-date = 2018-02-02T13:02:25Z  # Schedule page publish date.
-draft = true
+authors = ["Andreas Damianou, Amazon Research Cambridge"]
+date = 2018-02-10T13:02:25Z  # Schedule page publish date.
+draft = false
 
 # Talk start and end times
 time_start = 2018-03-19T15:00:00Z
@@ -17,10 +17,10 @@ event = "Machine Learning Seminar"
 event_url = ""
 
 # Location of event.
-location = ""
+location = "TBA"
 
 # Seminar host
-host=""
+host="Mauricio Alvarez"
 
 # Is this a selected talk? (true/false)
 selected = false
@@ -49,8 +49,7 @@ caption = ""
 
 ## Abstract
 
-[enter abstract here]
-
+TBA
 ## Biography
 
-[enter bio here]
+TBA
