@@ -1,12 +1,12 @@
 +++
 title = " Bayesian Quadrature for Multiple Related Integrals"
 authors = ["François-Xavier Briol, University of Warwick"]
-date = 2018-02-02T12:30:00Z  # Schedule page publish date.
+date = 2018-03-01T09:30:00Z  # Schedule page publish date.
 draft = false
 
 # Talk start and end times
-time_start = 2018-02-28T15:30:00Z
-time_end = 2018-02-28T16:30:00Z
+time_start = 2018-05-02T15:30:00Z
+time_end = 2018-05-02T16:30:00Z
 
 # Optional shortened abstract
 abstract="" # ignore this
