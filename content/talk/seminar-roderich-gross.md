@@ -1,12 +1,12 @@
 +++
 title = "Generative Adversarial Networks (GANs)"
 authors = ["Roderich Gross, University of Sheffield"]
-date = 2018-02-02T13:04:14Z  # Schedule page publish date.
+date = 2018-03-11T13:04:14Z  # Schedule page publish date.
 draft = false
 
 # Talk start and end times
-time_start = 2018-03-14T15:30:00Z
-time_end = 2018-03-14T16:30:00Z
+time_start = 2018-04-25T15:30:00Z
+time_end = 2018-04-25T16:30:00Z
 
 # Optional shortened abstract
 abstract="" # ignore this
