@@ -49,7 +49,8 @@ caption = ""
 
 ## Abstract
 
-TBA
+In this talk, I will motivate the need for introducing probabilistic and Bayesian flavour to "traditional" deep learning approaches. For example, Bayesian treatment of neural network parameters is an elegant way of avoiding overfitting and heuristics in optimization, while providing a solid mathematical grounding. I will also highlight the deep Gaussian process family of approaches, which can be seen as non-parametric Bayesian neural networks. The Bayesian treatment of neural networks comes with mathematical intractabilities, therefore I will outline some of the approximate inference methods used to tackle these intractabilities.
+
 ## Biography
 
-TBA
+I completed my PhD studies under Neil Lawrence in Sheffield and subsequently pursued a post-doc in the intersection of machine learning and bio-inspired robotics. I've now moved to Amazon as a machine learning scientist, based in Cambridge, UK. My area of interest is machine learning, and more specifically: Bayesian non-parametrics (focusing on both data efficiency and scalability), representation learning, uncertainty quantification, big data. In a recent strand of work, I seek to bridge the gap between representation learning and decision-making, with applications in robotics and data science pipelines. Personal website: [andreasdamianou.com](http://andreasdamianou.com)
