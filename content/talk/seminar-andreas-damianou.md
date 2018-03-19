@@ -1,5 +1,5 @@
 +++
-title = "Bayesian Deep Learning and Deep GPs"
+title = "Probability and Uncertainty in Deep Learning"
 authors = ["Andreas Damianou, Amazon Research Cambridge"]
 date = 2018-02-10T13:02:25Z  # Schedule page publish date.
 draft = false
