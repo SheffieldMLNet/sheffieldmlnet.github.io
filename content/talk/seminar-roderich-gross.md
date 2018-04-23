@@ -1,6 +1,6 @@
 +++
 
-title = "Generative Adversarial Networks (GANs)"
+title = "Less is more? Controlling swarms and Turing Learning"
 authors = ["Roderich Gross, University of Sheffield"]
 date = 2018-03-11T13:04:14Z  # Schedule page publish date.
 draft = false
