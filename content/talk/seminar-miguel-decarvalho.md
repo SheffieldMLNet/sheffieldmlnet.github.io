@@ -29,7 +29,7 @@ tags = ["seminar"]
 
 # Links (optional).
 url_pdf = ""
-url_slides = ""
+url_slides = "downloads/decarvalho-geometric-aspects-bayesian-inference-slides.pdf"
 url_video = ""
 url_code = ""
 
@@ -53,4 +53,4 @@ In this talk I will provide a geometric interpretation to Bayesian inference tha
 
 ## Biography
 
-Miguel de Carvalho is Lecturer in Statistics at the School of Mathematics, University of Edinburgh. Beyond serving at the academy he is also a regular academic consultant of Banco de Portugal (Portuguese Central Bank). He is an Associate Editor for the Annals of Applied  Statistics (IMS), Computational Statistics and Data Analysis (IASC), and for Statistics and Public Policy (ASA). 
+Miguel de Carvalho is Lecturer in Statistics at the School of Mathematics, University of Edinburgh. Beyond serving at the academy he is also a regular academic consultant of Banco de Portugal (Portuguese Central Bank). He is an Associate Editor for the Annals of Applied  Statistics (IMS), Computational Statistics and Data Analysis (IASC), and for Statistics and Public Policy (ASA).
