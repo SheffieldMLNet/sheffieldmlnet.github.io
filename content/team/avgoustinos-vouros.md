@@ -8,7 +8,7 @@ title = "Avgoustinos Vouros"
 # Project summary to display on homepage.
 summary = "Student Seminar Coordinator; PhD Student"
 
-weight = 3
+weight = 4
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "august.png"
