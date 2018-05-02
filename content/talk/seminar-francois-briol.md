@@ -29,7 +29,7 @@ tags = ["seminar"]
 
 # Links (optional).
 url_pdf = ""
-url_slides = ""
+url_slides = "downloads/briol-bayesian-quadrature-slides.pdf"
 url_video = ""
 url_code = ""
 
