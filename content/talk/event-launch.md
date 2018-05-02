@@ -1,31 +1,31 @@
 +++
-title = "tbc"
-authors = ["André Grüning, University of Surrey"]
-date = 2018-06-01T09:00:01Z  # Schedule page publish date.
+title = "Launch Event: Inaugural Lecture Followed by Drinks Reception"
+authors = ["Neil Lawrence, Amazon Research Cambridge"]
+date = 2018-04-27T09:30:00Z  # Schedule page publish date.
 draft = false
 
 # Talk start and end times
-time_start = 2018-06-06T15:30:00Z
-time_end = 2018-06-06T16:30:00Z
+time_start = 2018-05-02T18:00:00Z
+time_end = 2018-05-02T21:00:00Z
 
 # Optional shortened abstract
 abstract="" # ignore this
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = "Machine Learning Seminar"
+event = "Special Event"
 event_url = ""
 
 # Location of event.
-location = "tbc"
+location = "Lecture Theatre 3, the Diamond Building"
 
 # Seminar host
-host="Mauricio Alvarez"
+host="Wil Ward"
 
 # Is this a selected talk? (true/false)
-selected = false
+selected = true
 
-tags = ["seminar"]
+tags = ["event","special"]
 
 # Links (optional).
 url_pdf = ""
@@ -47,10 +47,6 @@ caption = ""
 
 +++
 
-## Abstract
+For details, [see our blog post](../../post/launch-event/).
 
-[TBC]
-
-## Biography
-
-[TBC]
+To register on Eventbrite, [click here](https://www.eventbrite.co.uk/e/sheffield-machine-learning-research-network-launch-registration-44885608062).

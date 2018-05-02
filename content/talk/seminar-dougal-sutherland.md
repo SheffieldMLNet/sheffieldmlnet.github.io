@@ -1,7 +1,7 @@
 +++
 title = "tbc"
 authors = ["Dougal Sutherland, Gatsby Computational Neuroscience Unit, UCL"]
-date = 2018-05-01T09:00:00Z  # Schedule page publish date.
+date = 2018-06-01T09:00:00Z  # Schedule page publish date.
 draft = false
 
 # Talk start and end times

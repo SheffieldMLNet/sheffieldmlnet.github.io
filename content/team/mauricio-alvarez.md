@@ -5,7 +5,7 @@ date = "2018-01-22"
 # Project title.
 title = "Mauricio Alvarez"
 
-weight=8
+weight=3
 
 # Project summary to display on homepage.
 summary = "Seminar Coordinator; Lecturer in ML"
