@@ -6,7 +6,7 @@ date = "2018-01-22"
 title = "Avgoustinos Vouros"
 
 # Project summary to display on homepage.
-summary = "Applications of ML; PhD Student"
+summary = "Student Seminar Coordinator; PhD Student"
 
 weight = 3
 
