@@ -29,7 +29,7 @@ tags = ["seminar"]
 
 # Links (optional).
 url_pdf = ""
-url_slides = ""
+url_slides = "http://www.gatsby.ucl.ac.uk/~dougals/slides/mmd-gans-sheffield/"
 url_video = ""
 url_code = ""
 
