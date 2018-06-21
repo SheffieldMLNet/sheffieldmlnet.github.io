@@ -5,8 +5,8 @@ date = 2018-06-20T09:00:00Z  # Schedule page publish date.
 draft = false
 
 # Talk start and end times
-time_start = 2018-07-04T15:00:00Z
-time_end = 2018-07-04T16:00:00Z
+time_start = 2018-07-04T15:30:00Z
+time_end = 2018-07-04T16:30:00Z
 
 # Optional shortened abstract
 abstract="" # ignore this
