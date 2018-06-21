@@ -20,7 +20,7 @@ event_url = ""
 location = "Pool Seminar Room (9 Mappin St G12)"
 
 # Seminar host
-host="Mauricio Alvarez"
+host="Haiping Lu"
 
 # Is this a selected talk? (true/false)
 selected = false
