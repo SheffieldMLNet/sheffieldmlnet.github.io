@@ -70,10 +70,10 @@ _Eleni_
 
 Acknowledgements go to Peter Dayan for his amazingly fast feedback on this text (as always!) and for pointing me to the work of Kent Berridge,[^3] who makes the distinction between _“liking”_ vs _“wanting”_, as well as the work of Robb Rutledge,[^4] a modern Epicurus who proposed a computational model of momentary subjective happiness. Also to Wil Ward for meticulous proofreading. Many thanks!
 
-[^1]: Sutton, R.S. & Barto, A.G. Reinforcement Learning: An Introduction, second edition. (2018).
-[^2]: Vasilaki, E. Is Epicurus the father of Reinforcement Learning? (2017).
-[^3]: Kringelbach, M.L. & Berridge, K.C. The affective core of emotion: Linking pleasure, subjective well-being, and optimal metastability in the brain. Emotion Review, 9(3), 191-199 (2017).
-[^4]: Rutledge R.B., Skandali, N., Dayan, P. & Dolan, R.J. A computational and neural model of momentary subjective well-being. PNAS, 111(33), 12252-12257 (2014).
+[^1]: [Sutton, R.S. & Barto, A.G. Reinforcement Learning: An Introduction, second edition. (2018)](http://incompleteideas.net/book/the-book.html).
+[^2]: [Vasilaki, E. Is Epicurus the father of Reinforcement Learning? (2017)](https://arxiv.org/abs/1710.04582).
+[^3]: [Kringelbach, M.L. & Berridge, K.C. The affective core of emotion: Linking pleasure, subjective well-being, and optimal metastability in the brain. Emotion Review, 9(3), 191-199 (2017)](https://www.ncbi.nlm.nih.gov/pubmed/28943891).
+[^4]: [Rutledge R.B., Skandali, N., Dayan, P. & Dolan, R.J. A computational and neural model of momentary subjective well-being. PNAS, 111(33), 12252-12257 (2014)](https://www.ncbi.nlm.nih.gov/pubmed/25092308).
 
 
 
