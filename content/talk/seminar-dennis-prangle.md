@@ -17,7 +17,7 @@ event = "Machine Learning Seminar"
 event_url = ""
 
 # Location of event.
-location = "tbc"
+location = "Pool Seminar Room (9 Mappin Street G3)"
 
 # Seminar host
 host="Mauricio Alvarez"
