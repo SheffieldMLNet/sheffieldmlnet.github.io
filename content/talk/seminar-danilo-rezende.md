@@ -1,5 +1,5 @@
 +++
-title = "[Title TBA]"
+title = "tbc"
 authors = ["Danilo Rezende, Google DeepMind"]
 date = 2018-10-08T16:03:00Z  # Schedule page publish date.
 draft = false
@@ -20,7 +20,7 @@ event_url = ""
 location = "tbc"
 
 # Seminar host
-host="Mauricio Alvarez"
+host="Mauricio Alvarez and Wil Ward"
 
 # Is this a selected talk? (true/false)
 selected = false
