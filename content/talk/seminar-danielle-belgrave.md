@@ -1,5 +1,5 @@
 +++
-title = "[Title TBA]"
+title = "tbc"
 authors = ["Danielle Belgrave, Microsoft Research Cambridge"]
 date = 2018-10-08T16:02:00Z  # Schedule page publish date.
 draft = false
@@ -20,7 +20,7 @@ event_url = ""
 location = "Ada Lovelace (Regent Court COM-108)"
 
 # Seminar host
-host="Mauricio Alvarez"
+host="Fariba Yousefi, Haiping Lu and Mauricio Alvarez"
 
 # Is this a selected talk? (true/false)
 selected = false
