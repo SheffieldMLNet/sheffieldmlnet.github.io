@@ -20,7 +20,7 @@ event_url = ""
 location = "Pool Seminar Room (9 Mappin Street G3)"
 
 # Seminar host
-host="Mauricio Alvarez"
+host="Mauricio Alvarez and Wil Ward"
 
 # Is this a selected talk? (true/false)
 selected = false
