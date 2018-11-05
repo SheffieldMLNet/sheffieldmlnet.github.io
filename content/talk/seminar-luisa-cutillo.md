@@ -1,5 +1,5 @@
 +++
-title = "tbc"
+title = "Community Structure Validation in Networks"
 authors = ["Luisa Cutillo, University of Leeds"]
 date = 2018-10-08T16:01:00Z  # Schedule page publish date.
 draft = false
