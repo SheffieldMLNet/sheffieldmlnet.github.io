@@ -1,6 +1,5 @@
 +++
-title = "Probabilistic Deep Learning: Foundations, Applications and Open 
-Problems"
+title = "Probabilistic Deep Learning: Foundations, Applications and Open Problems"
 authors = ["Danilo Rezende, Google DeepMind"]
 date = 2018-10-08T16:03:00Z  # Schedule page publish date.
 draft = false
@@ -59,6 +58,7 @@ efficient large-scale training of a wide variety of generative models,
 demonstrate a few applications of these models to density estimation, 
 missing data imputation, data compression and planning. Finally, I will 
 discuss some of the open problems in the field.
+
 ## Biography
 
 Danilo Jimenez Rezende is a staff research scientist at Google DeepMind, 
