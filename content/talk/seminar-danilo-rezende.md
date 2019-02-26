@@ -1,5 +1,5 @@
 +++
-title = "[Title TBA]"
+title = "Probabilistic Deep Learning: Foundations, Applications and Open Problems"
 authors = ["Danilo Rezende, Google DeepMind"]
 date = 2018-10-08T16:03:00Z  # Schedule page publish date.
 draft = false
@@ -17,10 +17,10 @@ event = "Machine Learning Seminar"
 event_url = ""
 
 # Location of event.
-location = "tbc"
+location = "Lewin Lab (Regent Court COM-G12)"
 
 # Seminar host
-host="Mauricio Alvarez"
+host="Mauricio Alvarez and Wil Ward"
 
 # Is this a selected talk? (true/false)
 selected = false
@@ -49,8 +49,24 @@ caption = ""
 
 ## Abstract
 
-_coming soon_
+Advances in deep generative models are at the forefront of deep learning 
+research because of the promise they offer for allowing data-efficient 
+learning, and for model-based reinforcement learning. In this talk I'll 
+review the foundations of probabilistic reasoning and generative 
+modeling. I will then introduce modern approximations which allow for 
+efficient large-scale training of a wide variety of generative models, 
+demonstrate a few applications of these models to density estimation, 
+missing data imputation, data compression and planning. Finally, I will 
+discuss some of the open problems in the field.
 
 ## Biography
 
-_coming soon_
+Danilo Jimenez Rezende is a staff research scientist at Google DeepMind, 
+working on general-purpose machine reasoning and learning algorithms. He 
+holds a BA in Physics and MSc in Theoretical Physics from Ecole 
+Polytechnique (Palaiseau – France) and from the Institute of Theoretical 
+Physics (SP – Brazil) and a PhD in Computational Neuroscience at Ecole 
+Polytechnique Federale de Lausanne, EPFL (Lausanne – Switzerland). His 
+research focuses on scalable inference methods, generative models of 
+images and video, applied probability, Bayesian analysis and 
+unsupervised (deep) learning.

@@ -17,10 +17,10 @@ event = "Machine Learning Seminar"
 event_url = ""
 
 # Location of event.
-location = "tbc"
+location = "Pool Seminar Room (9 Mappin Street G3)"
 
 # Seminar host
-host="Mauricio Alvarez"
+host="Mauricio Alvarez and Wil Ward"
 
 # Is this a selected talk? (true/false)
 selected = false
@@ -29,7 +29,7 @@ tags = ["seminar"]
 
 # Links (optional).
 url_pdf = ""
-url_slides = ""
+url_slides = "downloads/VIforSDEs_DennisPrangle.pdf"
 url_video = ""
 url_code = ""
 
