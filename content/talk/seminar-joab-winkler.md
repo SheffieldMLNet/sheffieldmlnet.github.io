@@ -28,7 +28,7 @@ selected = false
 tags = ["seminar"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "./downloads/winkler-condition-estimation-slides.pdf"
 url_slides = ""
 url_video = ""
 url_code = ""
