@@ -1,6 +1,6 @@
 +++
 title = "Multi-task Dirichlet-multinomial regression for detecting global microbiome associations"
-authors = ["Frank Dondelinger, University of Lancaster"]
+authors = ["Frank Dondelinger, Lancaster University"]
 date = 2019-02-25T09:02:00Z  # Schedule page publish date.
 draft = false
 
