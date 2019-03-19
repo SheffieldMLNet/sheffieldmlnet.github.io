@@ -5,8 +5,8 @@ date = 2019-03-01T09:03:00Z  # Schedule page publish date.
 draft = false
 
 # Talk start and end times
-time_start = 2019-03-22T14:00:00Z
-time_end = 2019-03-22T15:00:00Z
+time_start = 2019-03-22T13:30:00Z
+time_end = 2019-03-22T14:30:00Z
 
 # Optional shortened abstract
 abstract="" # ignore this
@@ -49,7 +49,7 @@ caption = ""
 
 ## Abstract
 
-Nonlinear filtering is the Bayesian optimal solution to the problem of dynamically estimating a latent variable from a continuous stream of noisy observations. It is highly relevant in neuroscience both for data analysis applications [^1] as well as a candidate for brain function at different levels ranging from the single synapse level [^2] to the neural network level [^3]. A widely used solution to the nonlinear filtering problem is to rely on a set of samples (particles) to represent the filtering distribution. However, this standard particle filtering approach which relies on importance weights does not scale well when the dimensionality of the problem increases, i.e. it requires a number of particles which scales exponentially with the number of dimensions. In this talk, I will introduce a new class of particle filters which do not depend on importance weight and show that they overcome this curse of dimensionality [^4]. Furthermore, I will show that a specific weightless particle filter - called the neural particle filter - is relevant for brain function as it could be implemented by a network of neurons [^2]. In the last part of the talk, I will show several applications of nonlinear filtering in neuroscience [1^][^2][^3]. 
+Nonlinear filtering is the Bayesian optimal solution to the problem of dynamically estimating a latent variable from a continuous stream of noisy observations. It is highly relevant in neuroscience both for data analysis applications[^1] as well as a candidate for brain function at different levels ranging from the single synapse level[^2] to the neural network level[^3]. A widely used solution to the nonlinear filtering problem is to rely on a set of samples (particles) to represent the filtering distribution. However, this standard particle filtering approach which relies on importance weights does not scale well when the dimensionality of the problem increases, i.e. it requires a number of particles which scales exponentially with the number of dimensions. In this talk, I will introduce a new class of particle filters which do not depend on importance weight and show that they overcome this curse of dimensionality.[^4] Furthermore, I will show that a specific weightless particle filter - called the neural particle filter - is relevant for brain function as it could be implemented by a network of neurons.[^2] In the last part of the talk, I will show several applications of nonlinear filtering in neuroscience.[^1][^2][^3]
 
 ## Biography
 
