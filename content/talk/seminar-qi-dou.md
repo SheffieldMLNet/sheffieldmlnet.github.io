@@ -1,6 +1,6 @@
 +++
 title = "Towards AI-Powered Healthcare: Automated Medical Image Analysis via Deep Learning"
-authors = [Qi DOU, Imperial College London"]
+authors = ["Qi DOU, Imperial College London"]
 date = 2019-03-25T09:04:38Z  # Schedule page publish date.
 draft = false
 
