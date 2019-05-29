@@ -1,5 +1,5 @@
 +++
-title = "[Learning invariances using the marginal likelihood]"
+title = "Learning invariances using the marginal likelihood"
 authors = ["Mark van der Wilk, PROWLER.io"]
 date = 2019-04-27T09:05:00Z  # Schedule page publish date.
 draft = false
