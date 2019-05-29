@@ -1,12 +1,12 @@
 +++
 title = "[title tbc]"
-authors = ["Alexis Boukouvalas, prowler.io"]
+authors = ["Alexis Boukouvalas, PROWLER.io"]
 date = 2019-04-27T09:06:00Z  # Schedule page publish date.
 draft = false
 
 # Talk start and end times
-time_start = 2019-05-31T14:00:00Z
-time_end = 2019-05-31T15:00:00Z
+time_start = 2019-07-19T14:00:00Z
+time_end = 2019-07-19T15:00:00Z
 
 # Optional shortened abstract
 abstract="" # ignore this
