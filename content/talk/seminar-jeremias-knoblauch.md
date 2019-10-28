@@ -28,7 +28,7 @@ selected = false
 tags = ["seminar"]
 
 # Links (optional).
-url_pdf = "./downloads/knoublach-generalized-variational-inference.pdf"
+url_pdf = "./downloads/knoblauch-generalized-variational-inference.pdf"
 url_slides = ""
 url_video = ""
 url_code = ""
