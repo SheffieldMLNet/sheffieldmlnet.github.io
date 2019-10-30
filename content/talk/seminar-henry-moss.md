@@ -1,7 +1,7 @@
 +++
 title = "MUMBO: MUlti-task Max-value Bayesian Optimization"
 authors = ["Henry Moss, Lancaster University"]
-date = 2019-10-31T09:06:00Z  # Schedule page publish date.
+date = 2019-10-30T21:00:00Z  # Schedule page publish date.
 draft = false
 
 # Talk start and end times
