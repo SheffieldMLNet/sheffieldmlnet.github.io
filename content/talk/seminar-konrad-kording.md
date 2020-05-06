@@ -17,10 +17,10 @@ event = "Machine Learning Seminar"
 event_url = "https://www.worldwideneuro.com/seminar-event.html?id=81"
 
 # Location of event.
-location = "Online!"
+location = "Online live!"
 
 # Seminar host
-host="Eleni Vasilaki"
+host="Aditya Gilra"
 
 # Is this a selected talk? (true/false)
 selected = false
@@ -49,9 +49,11 @@ caption = ""
 
 ## Abstract
 
+Watch live at [https://www.crowdcast.io/e/konrad-kordings-world](https://www.crowdcast.io/e/konrad-kordings-world).
+Brought to you with support from [World Wide Neuro](https://www.worldwideneuro.com) -- [Seminar listing](https://www.worldwideneuro.com/seminar-event.html?id=81).
 
 ## Biography
 
-Dr. Kording's (He/Him) is trying to understand how the world and in particular the brain works using data. Early research in the lab focused on computational neuroscience and in particular movement. But as the approaches matured, the focus has more been on discovering ways in which new data sources as well as emerging data analysis can enable awesome possibilities. The current focus is on Causality in Data science applications - how do we know how things work if we can not randomize? But we are also very much excited about understanding how the brain does credit assignment. Our style of working is transdisciplinary, we collaborate on virtually every project.  
+Dr. Kording (He/Him) is trying to understand how the world and in particular the brain works using data. Early research in the lab focused on computational neuroscience and in particular movement. But as the approaches matured, the focus has more been on discovering ways in which new data sources as well as emerging data analysis can enable awesome possibilities. The current focus is on Causality in Data science applications - how do we know how things work if we can not randomize? But we are also very much excited about understanding how the brain does credit assignment. Our style of working is transdisciplinary, we collaborate on virtually every project.  
   
 [http://koerding.com/](http://koerding.com/)
