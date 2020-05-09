@@ -1,7 +1,7 @@
 +++
 title = "TBA (~~low precision and connectivity in neural networks for neuromorphics)"
 authors = ["Prof Stefano Fusi, Columbia University, USA"]
-date = 2020-05-09T14:37:48Z  # Schedule page publish date.
+date = 2020-05-09T15:37:48Z  # Schedule page publish date.
 draft = false
 
 # Talk start and end times
