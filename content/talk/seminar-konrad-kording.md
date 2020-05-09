@@ -54,6 +54,8 @@ Brought to you with support from [World Wide Neuro](https://www.worldwideneuro.c
 
 ## Biography
 
-Dr. Kording (He/Him) is trying to understand how the world and in particular the brain works using data. Early research in the lab focused on computational neuroscience and in particular movement. But as the approaches matured, the focus has more been on discovering ways in which new data sources as well as emerging data analysis can enable awesome possibilities. The current focus is on Causality in Data science applications - how do we know how things work if we can not randomize? But we are also very much excited about understanding how the brain does credit assignment. Our style of working is transdisciplinary, we collaborate on virtually every project.  
+From Prof Konrad Kording's website:  
   
-[http://koerding.com/](http://koerding.com/)
+Konrad is interested in the question of how the brain solves the credit assignment problem and similarly how we should assign credit in the real world (through causality). In extension of this main thrust he is interested in applications of causality in biomedical research. Konrad has trained as student at ETH Zurich with Peter Konig, as postdoc at UCL London with Daniel Wolpert and at MIT with Josh Tenenbaum. After a decade at Northwestern University he is now PIK professor at UPenn.
+  
+[http://kordinglab.com/people/konrad_kording/index.html](http://kordinglab.com/people/konrad_kording/index.html)
