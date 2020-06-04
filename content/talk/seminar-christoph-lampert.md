@@ -1,5 +1,5 @@
 +++
-title = "TBA"
+title = "TBA (~Computer Vision / Basic ML)"
 authors = ["Prof Christoph Lampert, Institute of Science and Technology Austria"]
 date = 2020-05-27T17:37:48Z  # Schedule page publish date.
 draft = false
