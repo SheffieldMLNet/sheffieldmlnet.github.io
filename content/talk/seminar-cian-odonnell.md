@@ -1,7 +1,7 @@
 +++
 title = "Neural circuit redundancy, stability, and variability in developmental brain disorders"
 authors = ["Dr Cian O'Donnell, University of Bristol"]
-date = 2020-06-03T17:37:48Z  # Schedule page publish date.
+date = 2020-05-26T17:37:48Z  # Schedule page publish date.
 draft = false
 
 # Talk start and end times
