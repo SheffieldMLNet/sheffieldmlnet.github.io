@@ -1,5 +1,5 @@
 +++
-title = "TBA (~Gaussian Processes)"
+title = "Multi-resolution Multi-task Gaussian Processes: London air pollution"
 authors = ["Ollie Hamelijnck, The Alan Turing Institute, London"]
 date = 2020-05-28T09:37:48Z  # Schedule page publish date.
 draft = false
@@ -51,6 +51,12 @@ caption = ""
 
 Watch live at [https://www.crowdcast.io/e/ollie-hamelijnck-world](https://www.crowdcast.io/e/ollie-hamelijnck-world).
 Brought to you with support from [World Wide Neuro](https://www.worldwideneuro.com) -- [Seminar listing](https://www.worldwideneuro.com/seminar-series.html?name=Sheffield_ML).
+    
+Poor air quality in cities is a significant threat to health and life expectancy, with over 80% of people living in urban areas exposed to air quality levels that exceed World Health Organisation limits.  
+  
+In this session, I present a multi-resolution multi-task framework that handles evidence integration under varying spatio-temporal sampling resolution and noise levels. We have developed both shallow Gaussian Process (GP) mixture models and deep GP constructions that naturally handle this evidence integration, as well as biases in the mean. These models underpin our work at the Alan Turing Institute towards providing spatio-temporal forecasts of air pollution across London. We demonstrate the effectiveness of our framework on both synthetic examples and applications on London air quality.  
+  
+For further information go to: https://www.turing.ac.uk/research/research-projects/london-air-quality. Collaborators: Oliver Hamelijnck, Theodoros Damoulas, Kangrui Wang and Mark Girolami.
     
 ## Biography
 
