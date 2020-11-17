@@ -1,7 +1,7 @@
 +++
 title = "An inference perspective on meta-learning"
 authors = ["Kate Rakelly, University of California Berkeley"]
-date = 2020-11-01T09:37:48Z  # Schedule page publish date.
+date = 2020-05-29T09:37:48Z  # Schedule page publish date.
 draft = false
 
 # Talk start and end times
