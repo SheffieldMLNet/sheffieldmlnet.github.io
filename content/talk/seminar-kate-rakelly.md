@@ -64,4 +64,4 @@ I am a PhD candidate in BAIR at UC Berkeley, where I am advised by Sergey Levine
 Previously, I graduated with a Bachelor's in EECS from UC Berkeley, where I did undergraduate research with Shiry Ginosar and Alyosha Efros in computer vision as well as Insoon Yang and Claire Tomlin in control.  
 """  
     
-[https://people.eecs.berkeley.edu/~rakelly/](https://people.eecs.berkeley.edu/~rakelly/)
+
