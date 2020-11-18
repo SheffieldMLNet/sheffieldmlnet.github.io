@@ -58,8 +58,8 @@ While meta-learning algorithms are often viewed as algorithms that learn to lear
 
 From Kate Rakelly's website:  
   
-I am a PhD candidate in BAIR at UC Berkeley, where I am advised by Sergey Levine. During my PhD I've also worked with Alyosha Efros and Trevor Darrell.  
+"""I am a PhD candidate in BAIR at UC Berkeley, where I am advised by Sergey Levine. During my PhD I've also worked with Alyosha Efros and Trevor Darrell.  
   
-Previously, I graduated with a Bachelor's in EECS from UC Berkeley, where I did undergraduate research with Shiry Ginosar and Alyosha Efros in computer vision as well as Insoon Yang and Claire Tomlin in control.   
+Previously, I graduated with a Bachelor's in EECS from UC Berkeley, where I did undergraduate research with Shiry Ginosar and Alyosha Efros in computer vision as well as Insoon Yang and Claire Tomlin in control."""   
     
 [https://people.eecs.berkeley.edu/~rakelly/](https://people.eecs.berkeley.edu/~rakelly/)
