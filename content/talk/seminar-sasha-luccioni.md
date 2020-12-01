@@ -59,10 +59,10 @@ In 2015, the United Nations (UN) proposed the 2030 Agenda for Sustainable Develo
 
 From Sasha Luccioni's website:  
   
-"""I am currently a post-doctoral IVADO fellow at University of Montreal and Mila (Quebec Institute for Learning Algorithms), working with Yoshua Bengio on how to use AI to fight climate change.
-
-In my previous studies and research, I have worked on various domains, namely Natural Language Processing and AI in Education (AIED).
-
+"""I am currently a post-doctoral IVADO fellow at University of Montreal and Mila (Quebec Institute for Learning Algorithms), working with Yoshua Bengio on how to use AI to fight climate change.  
+  
+In my previous studies and research, I have worked on various domains, namely Natural Language Processing and AI in Education (AIED).  
+  
 I care deeply about the state of our planet and hope to witness and participate in the positive changes required to save it in the coming years!"""   
     
 [https://sashaluccioni.com/](https://sashaluccioni.com/)
