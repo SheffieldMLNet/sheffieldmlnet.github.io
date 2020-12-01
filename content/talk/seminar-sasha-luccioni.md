@@ -30,7 +30,7 @@ tags = ["seminar"]
 # Links (optional).
 url_pdf = ""
 url_slides = ""
-url_video = ""
+url_video = "https://www.crowdcast.io/e/sasha-luccioni--world"
 url_code = ""
 
 # Does the content use math formatting?
