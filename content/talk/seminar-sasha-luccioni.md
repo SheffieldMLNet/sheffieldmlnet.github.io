@@ -1,5 +1,5 @@
 +++
-title = "Machine Learning as a tool for positive impact : case studies from climate change, health and humanitarian response"
+title = "Machine Learning as a tool for positive impact : case studies from climate change"
 authors = ["Alexandra (Sasha) Luccioni, University of Montreal and Mila (Quebec Institute for Learning Algorithms)"]
 date = 2020-05-30T09:37:48Z  # Schedule page publish date.
 draft = false
@@ -53,7 +53,7 @@ Watch live at [https://www.crowdcast.io/e/sasha-luccioni--world](https://www.cro
 Recording at [https://youtu.be/gg5A-eau5UA](https://youtu.be/gg5A-eau5UA).
 Brought to you with support from [World Wide Neuro](https://www.worldwideneuro.com) -- [Seminar listing](https://www.worldwideneuro.com/seminar-series.html?name=Sheffield_ML).
     
-In 2015, the United Nations (UN) proposed the 2030 Agenda for Sustainable Development, which was adopted by all UN member states as a universal call to action to end poverty, protect the planet and ensure global peace and prosperity. At the heart of this endeavor are the 17 Sustainable Development Goals (SDGs), which provide a blueprint to achieve this agenda, targeting objectives such as ensuring high-quality education, maximizing health and well-being, and taking urgent action to combat climate change and its impacts. New technologies such as Artificial Intelligence (AI) and Machine Learning (ML) have been increasingly used to meet different SDGs, with breakthroughs in tasks such as Natural Language Processing (NLP) and Generative Adversarial Networks (GANs) serving as important tools to achieve positive social impact. My research agenda builds on the existing applications of AI and ML in education, humanitarian response and the environment to have a positive impact on society. I will present some of the projects that I am working on, and propose ways to contribute towards using AI to achieve social good.    
+Climate change is one of our generation's greatest challenges, with increasingly severe consequences on global ecosystems and populations. Machine Learning has the potential to address many important challenges in climate change, from both mitigation (reducing its extent) and adaptation (preparing for unavoidable consequences) aspects. To present the extent of these opportunities, I will describe some of the projects that I am involved in, spanning from generative model to computer vision and natural language processing. There are many opportunities for fundamental innovation in this field, advancing the state-of-the-art in Machine Learning while ensuring that this fundamental progress translates into positive real-world impact.  
   
 ## Biography
 
