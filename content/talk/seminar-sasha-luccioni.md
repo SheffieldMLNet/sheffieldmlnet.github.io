@@ -50,7 +50,7 @@ caption = ""
 ## Abstract
 
 Watch live at [https://www.crowdcast.io/e/sasha-luccioni--world](https://www.crowdcast.io/e/sasha-luccioni--world).
-Recording at [https://youtu.be/gg5A-eau5UA](https://youtu.be/gg5A-eau5UA).
+Recording at [https://youtu.be/LaJ5FIOCpBY](https://youtu.be/LaJ5FIOCpBY).
 Brought to you with support from [World Wide Neuro](https://www.worldwideneuro.com) -- [Seminar listing](https://www.worldwideneuro.com/seminar-series.html?name=Sheffield_ML).
     
 Climate change is one of our generation's greatest challenges, with increasingly severe consequences on global ecosystems and populations. Machine Learning has the potential to address many important challenges in climate change, from both mitigation (reducing its extent) and adaptation (preparing for unavoidable consequences) aspects. To present the extent of these opportunities, I will describe some of the projects that I am involved in, spanning from generative model to computer vision and natural language processing. There are many opportunities for fundamental innovation in this field, advancing the state-of-the-art in Machine Learning while ensuring that this fundamental progress translates into positive real-world impact.  
