@@ -21,13 +21,13 @@ We are currently reading [Pattern Recognition And Machine Learning by Chris Bish
  
 Below is the provisional schedule for the sessions and leaders (we may want to skip a few of the later chapters): 
 
-| Chapter/Section                     | Leader   | Time             | Exercises
-| ----------------------------------- | -------- | ---------------- |--------------
-| 1: Introduction                     | Magnus   | 05/11/20 4pm-6pm |
-| 2: Probability Distributions        | Mike     | 19/11/20 4pm-6pm |
-| 3.1-3.2? Linear Models for Regression  | Nada   | 03/12/20 4pm-6pm |
-| 3.3-3.6 Linear Models for Regression | Chunchao | 17/12/20 4pm-6pm | Exercises 3.8, 3.11, 3.18 and 3.24
-| 4.1-4.2, Linear models for classification  | Matt     | 14/01/21 4pm-6pm |
-| 4.3-4.5, Linear models for classification  | Ben      | 28/01/21 4pm-6pm |
-| TBC... 8: Graphical Models      | Mauricio | 11/02/21 4pm-6pm |
-| TBC                                 | TBC      | TBC              |
+| Chapter/Section                     | Leader   | Time             | Exercises    | Answers  |
+| ----------------------------------- | -------- | ---------------- |--------------|----------|
+| 1: Introduction                     | Magnus   | 05/11/20 4pm-6pm |              |          |
+| 2: Probability Distributions        | Mike     | 19/11/20 4pm-6pm | 2.45,2.19,2.36,2.5  | [Magnus'](https://raw.githubusercontent.com/SheffieldMLNet/sheffieldmlnet.github.io/source/content/bookclub/magnus_week_2.pdf) |              |          |
+| 3.1-3.2? Linear Models for Regression  | Nada   | 03/12/20 4pm-6pm | 3.1,3.4,3.8,3.11,3.18 and 3.24 |          |
+| 3.3-3.6 Linear Models for Regression | Chunchao | 17/12/20 4pm-6pm | Exercises 3.8, 3.11, 3.18 and 3.24  |          |
+| 4.1-4.2, Linear models for classification  | Matt     | 14/01/21 4pm-6pm |              |          |
+| 4.3-4.5, Linear models for classification  | Ben      | 28/01/21 4pm-6pm |              |          |
+| TBC... 8: Graphical Models      | Mauricio | 11/02/21 4pm-6pm |              |          |
+| TBC                                 | TBC      | TBC              |              |          |
