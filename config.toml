@@ -142,8 +142,8 @@ footnotereturnlinkcontents = "<sup>^</sup>"
 #   - Research Widget
 #   - Research description template, inc. picture highlights
 [[menu.main]]
-    name = "Book Club"
-    url = "bookclub"
+    name = "Book & Journal Club"
+    url = "bookclub" 
     weight = 4
 
 # SOFTWARE : Software output, highlighted sites and repositorys
