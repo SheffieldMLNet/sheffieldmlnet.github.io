@@ -11,7 +11,7 @@ weight=1
 summary = "Research Associate"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-gravatar = "m.t.smith@sheffield.ac.uk"
+image_preview = "eleni.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
