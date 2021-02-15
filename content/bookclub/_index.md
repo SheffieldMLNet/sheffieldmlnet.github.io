@@ -48,7 +48,7 @@ Below is the provisional schedule for the sessions and leaders:
 | ------------------ | ------ | ---- |-------|
 |"Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks" ([link](https://arxiv.org/pdf/1703.03400.pdf)) | Fariba Yousefi | 21/01/21 4pm-5pm | |
 |"Temporal Phenotyping using Deep Predictive Clustering of Disease Progression" ([link](https://arxiv.org/pdf/2006.08600.pdf)) | Benediktas Valys | 28/01/21 4pm-5pm | |
-|TBA | Mauricio Alvarez|18/02/21 4pm-5pm| |
+|"A Survey of Learning Causality with Data: Problems and Methods" ([link](https://arxiv.org/pdf/1809.09337.pdf)) | Mauricio Alvarez|18/02/21 4pm-5pm| |
 |TBA | Chunchao Ma|04/03/21 4pm-5pm| |
 |TBA |Senee Kitimoon|18/03/21 4pm-5pm| |
 |TBA |Areeb Sherwani|01/04/21 4pm-5pm| |
