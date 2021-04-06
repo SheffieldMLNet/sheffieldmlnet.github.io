@@ -1,0 +1,475 @@
+<!DOCTYPE html>
+<html lang="en-gb">
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="theme" content="hugo-academic">
+  <meta name="generator" content="Hugo 0.30.2" />
+  <meta name="author" content="Machine Learning Research Network">
+  <meta name="description" content="A researchers&#39; forum for those working in and with machine learning">
+
+  
+  <link rel="alternate" hreflang="en-gb" href="https://sheffieldmlnet.github.io/post/reinforcement-learning-and-happiness/">
+
+  
+  
+
+
+  
+
+  
+  
+  
+  
+    
+  
+  
+    
+    
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/solarized-dark.min.css">
+    
+  
+  
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha512-6MXa8B6uaO18Hid6blRMetEIoPqHf7Ux1tnyIQdpt9qI5OACx7C+O3IVTr98vwGnlcg0LOLa02i9Y1HpVhlfiw==" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.1/css/academicons.min.css" integrity="sha512-NThgw3XKQ1absAahW6to7Ey42uycrVvfNfyjqcFNgCmOCQ5AR4AO0SiXrN+8ZtYeappp56lk1WtvjVmEa+VR6A==" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha512-SfTiTlX6kk+qitfevl/7LibUOeJWlt9rbyDn92a1DqWOw9vWG2MFoays0sgObmWazO5BQPiFucnnEAjpAB+/Sw==" crossorigin="anonymous">
+  
+  
+  
+  
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lato:400,700%7cMerriweather%7cRoboto&#43;Mono">
+  
+  <link rel="stylesheet" href="https://sheffieldmlnet.github.io/styles.css">
+  
+
+  
+
+  
+
+  <link rel="manifest" href="https://sheffieldmlnet.github.io/site.webmanifest">
+  <link rel="icon" type="image/png" href="https://sheffieldmlnet.github.io/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="https://sheffieldmlnet.github.io/img/icon-192.png">
+
+  <link rel="canonical" href="https://sheffieldmlnet.github.io/post/reinforcement-learning-and-happiness/">
+
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="twitter:site" content="@http://twitter.com/SheffieldMLNet">
+  <meta property="twitter:creator" content="@http://twitter.com/SheffieldMLNet">
+  
+  <meta property="og:site_name" content="Machine Learning Research Network">
+  <meta property="og:url" content="https://sheffieldmlnet.github.io/post/reinforcement-learning-and-happiness/">
+  <meta property="og:title" content="What Reinforcement Learning tells us about happiness | Machine Learning Research Network">
+  <meta property="og:description" content="">
+  <meta property="og:locale" content="en-gb">
+  
+  <meta property="article:published_time" content="2018-05-02T09:00:00&#43;00:00">
+  
+  <meta property="article:modified_time" content="2018-05-02T09:00:00&#43;00:00">
+  
+
+  
+
+  <title>What Reinforcement Learning tells us about happiness | Machine Learning Research Network</title>
+
+</head>
+<body id="top" data-spy="scroll" data-target="#toc" data-offset="71" class="dark">
+
+<nav class="navbar navbar-default navbar-fixed-top" id="navbar-main">
+  <div class="container">
+
+    
+    <div class="navbar-header">
+      
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target=".navbar-collapse" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      
+      <a class="navbar-brand" href="https://sheffieldmlnet.github.io/"><img src="https://sheffieldmlnet.github.io/img/banner-logo.png" alt="Machine Learning Research Network"></a>
+    </div>
+
+    
+    <div class="collapse navbar-collapse">
+
+      
+      
+      <ul class="nav navbar-nav navbar-right">
+        
+
+        
+
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="https://sheffieldmlnet.github.io/#about">
+            
+            <span>Home</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="https://sheffieldmlnet.github.io/talk">
+            
+            <span>Events</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="https://sheffieldmlnet.github.io/bookclub">
+            
+            <span>Book &amp; Journal Club</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="https://sheffieldmlnet.github.io/post">
+            
+            <span>Blog</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="https://sheffieldmlnet.github.io/resources">
+            
+            <span>Resources</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="https://sheffieldmlnet.github.io/contact">
+            
+            <span>Contact</span>
+            
+          </a>
+        </li>
+
+        
+        
+      
+
+      
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+<article class="article" itemscope itemtype="http://schema.org/Article">
+
+  
+
+
+  <div class="article-container">
+    <div class="article-inner">
+      <h1 itemprop="name">What Reinforcement Learning tells us about happiness</h1>
+
+      
+
+<div class="article-metadata">
+
+  <span class="article-date">
+    
+    <time datetime="2018-05-02 09:00:00 &#43;0000 UTC" itemprop="datePublished">
+      02 May 2018
+    </time>
+  </span>
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    7 min read
+  </span>
+  
+
+  
+  <span class="middot-divider"></span>
+  <span>by <a href="https://sheffieldmlnet.github.io/tags/eleni">eleni</a></span>
+  
+
+  
+  
+
+  
+  
+  
+  
+
+  
+  
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    <li>
+      <a class="twitter"
+         href="https://twitter.com/intent/tweet?text=What%20Reinforcement%20Learning%20tells%20us%20about%20happiness&amp;url=https%3a%2f%2fsheffieldmlnet.github.io%2fpost%2freinforcement-learning-and-happiness%2f"
+         target="_blank" rel="noopener">
+        <i class="fa fa-twitter"></i>
+      </a>
+    </li>
+    <li>
+      <a class="facebook"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fsheffieldmlnet.github.io%2fpost%2freinforcement-learning-and-happiness%2f"
+         target="_blank" rel="noopener">
+        <i class="fa fa-facebook"></i>
+      </a>
+    </li>
+    <li>
+      <a class="linkedin"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fsheffieldmlnet.github.io%2fpost%2freinforcement-learning-and-happiness%2f&amp;title=What%20Reinforcement%20Learning%20tells%20us%20about%20happiness"
+         target="_blank" rel="noopener">
+        <i class="fa fa-linkedin"></i>
+      </a>
+    </li>
+    <li>
+      <a class="weibo"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fsheffieldmlnet.github.io%2fpost%2freinforcement-learning-and-happiness%2f&amp;title=What%20Reinforcement%20Learning%20tells%20us%20about%20happiness"
+         target="_blank" rel="noopener">
+        <i class="fa fa-weibo"></i>
+      </a>
+    </li>
+    <li>
+      <a class="email"
+         href="mailto:?subject=What%20Reinforcement%20Learning%20tells%20us%20about%20happiness&amp;body=https%3a%2f%2fsheffieldmlnet.github.io%2fpost%2freinforcement-learning-and-happiness%2f">
+        <i class="fa fa-envelope"></i>
+      </a>
+    </li>
+  </ul>
+</div>
+
+
+  
+
+</div>
+
+
+      <div class="article-style" itemprop="articleBody">
+        <p>I dare to say there is no other Machine Learning technique as relevant to life as Reinforcement Learning.<sup class="footnote-ref" id="fnref:1"><a rel="footnote" href="#fn:1">1</a></sup>  It is not only its origin: Reinforcement Learning is rooted in psychology experiments; but also, the fact that Reinforcement Learning ideas can be found in philosophical documents since at least the time of Plato. Even today, Reinforcement Learning tells us - or tells me - how we can achieve happiness.</p>
+
+<p>If you think I am biased, I am absolutely fine with it. I am: this is my interpretation of the philosophy texts I have read, the technical books I teach, my own studies on Reinforcement Learning and - of course - my own experiences. Thus, I am going to start from Epicurus, who is one of my favourite philosophers because he is misunderstood as a hedonist, while he was only practicing and teaching the theory of Reinforcement Learning.</p>
+
+<p>Epicurus believed in optimising a reward function across one’s life. He explicitly said that perusing the pleasures of the flesh is not the point. For the exact phrasing I will direct you to my other text <em>“Was Epicurus the father of Reinforcement Learning?”</em>,<sup class="footnote-ref" id="fnref:2"><a rel="footnote" href="#fn:2">2</a></sup> which I wrote based on my talk for our Machine Learning retreat in 2017.  Back then I thought that since I became the head of the Machine Learning group, I no longer need to prove myself by giving technical talks, and that at 9:00am in the morning people would rather hear something different for a change. Really, it was not a very serious talk.</p>
+
+<p>Epicurus says we should choose the actions that benefit our souls. This is a very interesting choice of words for someone who limited the presence of gods in his philosophy as much as he could and who didn’t believe in afterlife. I will therefore interpret what is good for “our souls” as what is good in the long run. Epicurus was suggesting that we incorporate also any future punishment that today’s pleasure will bring. If you have ever got drunk, you certainly know what I am talking about. Please forgive me if I turn everything into an equation, I assure you that on the surface it is a most trivial one, though in its essence it is the meaning of it all:</p>
+
+<p>$$R = r(t) + r(t+1) + r(t+2) + \ldots + r(t+N)\text{,}$$</p>
+
+<p>where $r(t)$ represents the reward, or, if a negative value, punishment, at time point $t$.</p>
+
+<p>In writing this, I assume that I will eventually die, that my moments of pleasure and punishment are finite and their importance doesn’t diminish with how far in the future they are. It is an important notion as I cannot maximise a function of an infinite value. Otherwise, if I feel invincible, which I occasionally still do, I will have to write:</p>
+
+<p>$$R = r(t) + r(t+1)\gamma + r(t+2)\gamma^2 + r(t+3)\gamma^3 + \ldots$$</p>
+
+<p>Now I can live forever, but there is a discount factor $\gamma$ multiplying each reward that I receive, with $\gamma &lt; 1$, which is raised to a power depending on how far away in the future the reward is. This just tells me that the reward I receive now is not as good as a same amount of the reward that I will get next year, and it explains why I am so impatient.</p>
+
+<p>In the Epicurean philosophy, there are clear instructions or suggestions regarding the values of various actions. For instance, Epicurus’ advice is to pursue friendship than romance because the latter brings jealousy and pain. I will therefore write in an equation that the value of friendship is higher than the value of romance. Feel free to disagree with Epicurus but for the sake of the argument:</p>
+
+<p>$$Q(\text{friendship}) &gt; Q(\text{romance})\text{,}$$</p>
+
+<p>where $Q$ is the value of the action to be considered and is interpreted as the expected sum of all the future rewards (and punishments), discounted of course, that can result from this action. Here, there is an omission: saying that the action is independent of our state is clearly an oversimplification. For instance, we can consider a state s that includes our own “state of mind”, and the other person involved. The value of friendship itself must also depend on the person we chose to offer our friendship. A more complete statement is therefore:</p>
+
+<p>$$Q(s, \text{friendship})&gt;Q(s, \text{romance})$$</p>
+
+<p>You can argue that the correctness of this inequality may very well depend on the specific state $s$ but, if I sample a state, on average this is more likely to be true. Of course, nobody says that $Q(s, \text{friendship})$ cannot have a very low value itself if investing in friendship with the wrong person but it is likely to still be higher than $Q(s, \text{romance})$ if investing in romance with the same wrong person.</p>
+
+<p>Implicit here is the investment in all these actions. Any action of friendship, or of anything else in fact, rarely comes for free: it typically involves some effort. In this framework, and to keep things simple, I may consider the investment as a negative reward, i.e. something that I pay now in order to get a higher return in the future. The update rule for learning the $Q$ values according to the well-known SARSA algorithm is:</p>
+
+<p>$$\Delta Q(s,a) = (r + \gamma Q(s’,a’)) - Q(s,a)\text{,}$$</p>
+
+<p>which I can interpret as “total reward $-$ expected reward”. The value $Q(s,a)$ is the expectation for immediate and future rewards that I will receive when I am in state $s$ and choose action $a$. If my prediction is correct, $Q(s,a)$ should be equal to the immediate reward $r$ plus the $Q$ value of the future state action pair $(s’, a’)$, i.e. my expected reward for the future state $s’$ when taking future action $a’$, discounted of course. If my expectation is wrong then the terms do not match and I need to update $Q(s,a)$. Given my investments on the way to my goal, represented as negative rewards, I need, and perhaps expect, future rewards that are large enough to compensate my investment and that arrive at a time that they do not feel heavily discounted.</p>
+
+<p>Therefore, receiving a smaller reward than anticipated can feel like punishment: the difference is negative. The film that your friend told you is amazing might disappoint you if you watch it with great expectations. Correspondingly, I remember watching the end of “<a href="https://en.wikipedia.org/wiki/Lost_(TV_series)"><em>Lost</em></a>&rdquo; many years after its first airing, having heard way too many times how awful it was. I assure you, it didn’t seem quite as bad to me. You see, after all the negative comments I had heard, my expectations were pretty low.</p>
+
+<p>In friendship or romance, or indeed anything else, great expectations and high investment are likely to lead to disappointment. Reinforcement Learning suggests you should have low expectations in situations you cannot really control and should avoid over-investment. In doing so, any reward is more likely to feel like a reward and any punishment as less of a punishment.</p>
+
+<p>Ongoing investments also lead to a natural bias in the perception of people. I, as an external observer for someone else, may be aware of signs of success (rewards) but I am likely unaware of their investments (punishments). On the contrary, I am perfectly aware of my own investments and therefore any perception of my personal success may feel less to me than in the eyes of other people. Sometimes it may even feel like a punishment: since I consumed the punishment first, the success may not be enough to make up for it; or my assessment may not wait for the time of the success itself – after all, I am impatient!</p>
+
+<p>This is how Reinforcement Learning tells me to live my life: enjoy simple things; do not expect too much from others; do not over-invest; and never underestimate the effort or investment that people made on their way to reach their goals. Is there an element of luck? Reinforcement Learning says there is, though, unless you are trapped in local maxima, you will eventually find the optimal solution given sufficient time. This, however, is a discussion for another time.</p>
+
+<p><br/>
+<em>Eleni</em></p>
+
+<p>Acknowledgements go to Peter Dayan for his amazingly fast feedback on this text (as always!) and for pointing me to the work of Kent Berridge,<sup class="footnote-ref" id="fnref:3"><a rel="footnote" href="#fn:3">3</a></sup> who makes the distinction between <em>“liking”</em> vs <em>“wanting”</em>, as well as the work of Robb Rutledge,<sup class="footnote-ref" id="fnref:4"><a rel="footnote" href="#fn:4">4</a></sup> a modern Epicurus who proposed a computational model of momentary subjective happiness. Also to Wil Ward for meticulous proofreading. Many thanks!</p>
+<div class="footnotes">
+
+<hr />
+
+<ol>
+<li id="fn:1"><a href="http://incompleteideas.net/book/the-book.html">Sutton, R.S. &amp; Barto, A.G. Reinforcement Learning: An Introduction, second edition. (2018)</a>.
+ <a class="footnote-return" href="#fnref:1"><sup>^</sup></a></li>
+<li id="fn:2"><a href="https://arxiv.org/abs/1710.04582">Vasilaki, E. Is Epicurus the father of Reinforcement Learning? (2017)</a>.
+ <a class="footnote-return" href="#fnref:2"><sup>^</sup></a></li>
+<li id="fn:3"><a href="https://www.ncbi.nlm.nih.gov/pubmed/28943891">Kringelbach, M.L. &amp; Berridge, K.C. The affective core of emotion: Linking pleasure, subjective well-being, and optimal metastability in the brain. Emotion Review, 9(3), 191-199 (2017)</a>.
+ <a class="footnote-return" href="#fnref:3"><sup>^</sup></a></li>
+<li id="fn:4"><a href="https://www.ncbi.nlm.nih.gov/pubmed/25092308">Rutledge R.B., Skandali, N., Dayan, P. &amp; Dolan, R.J. A computational and neural model of momentary subjective well-being. PNAS, 111(33), 12252-12257 (2014)</a>.
+ <a class="footnote-return" href="#fnref:4"><sup>^</sup></a></li>
+</ol>
+</div>
+
+      </div>
+
+      
+    </div>
+  </div>
+
+</article>
+
+
+
+
+
+
+<div class="article-container">
+  
+
+</div>
+
+<footer class="site-footer">
+  <div class="container">
+    <p class="powered-by">
+
+      &copy; 2018 University of Sheffield &middot; 
+
+      Powered by <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+      <span class="pull-right" aria-hidden="true">
+        <a href="#" id="back_to_top">
+          <span class="button_icon">
+            <i class="fa fa-chevron-up fa-2x"></i>
+          </span>
+        </a>
+      </span>
+
+    </p>
+  </div>
+</footer>
+
+
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close btn-large" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Cite</h4>
+      </div>
+      <div>
+        <pre><code class="modal-body tex"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-primary btn-outline js-copy-cite" href="#" target="_blank">
+          <i class="fa fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-primary btn-outline js-download-cite" href="#" target="_blank">
+          <i class="fa fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+
+    
+    
+
+    
+    <script async defer src="//maps.googleapis.com/maps/api/js?key=AIzaSyCDyFnj8i3WkKpxlBhPoARgI3X3FgYVDzo"></script>
+    
+
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js" integrity="sha512-3P8rXCuGJdNZOnUx/03c1jOTnMn3rP63nBip5gOP2qmUh5YAdVAvFZ1E+QLZZbC1rtMrQb+mah3AfYW11RUrWA==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.3/imagesloaded.pkgd.min.js" integrity="sha512-umsR78NN0D23AzgoZ11K7raBD+R6hqKojyBZs1w8WvYlsI+QuKRGBx3LFCwhatzBunCjDuJpDHwxD13sLMbpRA==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha512-iztkobsvnjKfAtTNdHkGVjAYTrrtlC7mGp/54c40wowO7LhURYl3gVzzcEqGl/qKXQltJ2HwMrdLcNUdo+N/RQ==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.4/isotope.pkgd.min.js" integrity="sha512-VDBOIlDbuC4VWxGJNmuFRQ0Li0SKkDpmGyuhAG5LTDLd/dJ/S0WMVxriR2Y+CyPL5gzjpN4f/6iqWVBJlht0tQ==" crossorigin="anonymous"></script>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gmaps.js/0.4.25/gmaps.min.js" integrity="sha256-7vjlAeb8OaTrCXZkCNun9djzuB2owUsaO72kXaFDBJs=" crossorigin="anonymous"></script>
+    
+    
+    <script src="https://sheffieldmlnet.github.io/js/hugo-academic.js"></script>
+    
+
+    
+    
+      
+      
+      <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
+      
+
+      
+
+      
+
+      <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({ tex2jax: { inlineMath: [['$','$'], ['\\(','\\)']] } });
+    </script>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS_CHTML" integrity="sha512-tOav5w1OjvsSJzePRtt2uQPFwBoHt1VZcUq8l8nm5284LEKE9FSJBQryzMBzHxY5P0zRdNqEcpLIRVYFNgu1jw==" crossorigin="anonymous"></script>
+    
+    
+
+  </body>
+</html>
+
