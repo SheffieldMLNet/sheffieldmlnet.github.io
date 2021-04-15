@@ -49,10 +49,10 @@ Below is the provisional schedule for the sessions and leaders:
 |"Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks" ([link](https://arxiv.org/pdf/1703.03400.pdf)) | Fariba Yousefi | 21/01/21 4pm-5pm | |
 |"Temporal Phenotyping using Deep Predictive Clustering of Disease Progression" ([link](https://arxiv.org/pdf/2006.08600.pdf)) | Benediktas Valys | 28/01/21 4pm-5pm | |
 |"A Survey of Learning Causality with Data: Problems and Methods" ([link](https://arxiv.org/pdf/1809.09337.pdf)) | Mauricio Alvarez|18/02/21 4pm-5pm| |
-|TBA | Chunchao Ma|04/03/21 4pm-5pm| |
-|TBA |Senee Kitimoon|18/03/21 4pm-5pm| |
-|TBA |Areeb Sherwani|01/04/21 4pm-5pm| |
-|TBA |Matthew Lyon|15/04/21 4pm-5pm| |
+|"Unsupervised Visual Domain Adaptation:A Deep Max-Margin Gaussian Process Approach" ([link](https://openaccess.thecvf.com/content_CVPR_2019/papers/Kim_Unsupervised_Visual_Domain_Adaptation_A_Deep_Max-Margin_Gaussian_Process_Approach_CVPR_2019_paper.pdf))| Chunchao Ma|04/03/21 4pm-5pm| |
+|"Focused Multi-task Learning Using Gaussian Processes" ([link](https://link.springer.com/chapter/10.1007/978-3-642-23783-6_20))|Senee Kitimoon|18/03/21 4pm-5pm| |
+|"Manifold relevance determination" ([link](https://icml.cc/2012/papers/94.pdf))|Areeb Sherwani|01/04/21 4pm-5pm| |
+|"Patch2Self: Denoising Diffusion MRI with Self-Supervised Learning" ([link](https://arxiv.org/abs/2011.01355))|Matthew Lyon|15/04/21 4pm-5pm| |
 |TBA |Thomas McDonald|30/04/21 4pm-5pm| |
 
 
