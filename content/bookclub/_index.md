@@ -46,6 +46,13 @@ Below is the provisional schedule for the sessions and leaders:
 
 | Paper Title (link) | Leader | Time | Notes |
 | ------------------ | ------ | ---- |-------|
+| "Bayesian computing with INLA: a review." ([link](https://www.annualreviews.org/doi/pdf/10.1146/annurev-statistics-060116-054045)) | Mike Smith | 14/10/21 4pm-5pm | |
+| TBC | | | |
+
+Previous Meetings:
+
+| Paper Title (link) | Leader | Time | Notes |
+| ------------------ | ------ | ---- |-------|
 |"Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks" ([link](https://arxiv.org/pdf/1703.03400.pdf)) | Fariba Yousefi | 21/01/21 4pm-5pm | |
 |"Temporal Phenotyping using Deep Predictive Clustering of Disease Progression" ([link](https://arxiv.org/pdf/2006.08600.pdf)) | Benediktas Valys | 28/01/21 4pm-5pm | |
 |"A Survey of Learning Causality with Data: Problems and Methods" ([link](https://arxiv.org/pdf/1809.09337.pdf)) | Mauricio Alvarez|18/02/21 4pm-5pm| |
