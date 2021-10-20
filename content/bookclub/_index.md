@@ -64,7 +64,7 @@ Journal Club:
 
 Book Club:
 
-| Chapter/Section                     | Leader   | Time             | Exercises    | Answers  |
+| Chapter/Section                     | Leader   | Time / Place     | Exercises    | Answers  |
 | ----------------------------------- | -------- | ---------------- |--------------|----------|
 | 1: Introduction                     | Magnus   | 05/11/20 4pm-6pm |              |          |
 | 2: Probability Distributions        | Mike     | 19/11/20 4pm-6pm | 2.45,2.19,2.36,2.5  | [Magnus'](https://raw.githubusercontent.com/SheffieldMLNet/sheffieldmlnet.github.io/source/content/bookclub/magnus_week_2.pdf) |              |          |
