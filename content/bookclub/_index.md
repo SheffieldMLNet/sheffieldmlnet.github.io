@@ -26,10 +26,11 @@ We are currently reading [Pattern Recognition And Machine Learning by Chris Bish
  
 Below is the provisional schedule for the sessions and leaders (we may want to skip a few of the later chapters): 
 
-| Chapter/Section                     | Leader   | Time             | Exercises    | Answers  |
+| Chapter/Section                     | Leader   | Time / Place     | Exercises    | Answers  |
 | ----------------------------------- | -------- | ---------------- |--------------|----------|
-| Sampling                            | Magnus Ross | 07/10/21 |  |  |
-| Sampling (11.4+, slice sampling, HMC)  | Arthur Leroy | 21/10/21 |   |    |
+| Sampling                            | Magnus Ross | 07/10/21 4pm |  |  |
+| Sampling (11.4+, slice sampling, HMC)  | Arthur Leroy | 21/10/21 4pm, G12 |   |    |
+| TBC  | TBC | 4/10/21 Ada Lovelace |   |    |
 
 Journal Club
 ------------
@@ -40,8 +41,10 @@ Below is the provisional schedule for the sessions and leaders:
 
 | Paper Title (link) | Leader | Time | Notes |
 | ------------------ | ------ | ---- |-------|
-| "Bayesian computing with INLA: a review." ([link](https://www.annualreviews.org/doi/pdf/10.1146/annurev-statistics-060116-054045)) | Mike Smith | 14/10/21 4pm-5pm | |
-| TBC | | | |
+| "Bayesian computing with INLA: a review." ([link](https://www.annualreviews.org/doi/pdf/10.1146/annurev-statistics-060116-054045)) | Mike Smith | 14/10/21 4pm-5pm, Ada Lovelace | |
+| TBC (email me ideas!) | | 28/10/21 4pm-5pm, Ada Lovelace | |
+| "Bayesian computing with INLA: a review." (second attempt!) ([link](https://www.annualreviews.org/doi/pdf/10.1146/annurev-statistics-060116-054045)) | Mike Smith | 11/11/21 4pm-5pm, Ada Lovelace | We had a lot of questions and didn't get to the end of the paper. Ideally we need statisticians in the group to advise. Hopefully at this meeting we can work through the questions from last time. |
+
 
 Previous Meetings
 -----------------
