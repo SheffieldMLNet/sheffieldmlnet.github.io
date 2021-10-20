@@ -39,7 +39,7 @@ Please [email me](mailto:m.t.smith@sheffield.ac.uk) if there are any interesting
 
 Below is the provisional schedule for the sessions and leaders: 
 
-| Paper Title (link) | Leader | Time | Notes |
+| Paper Title (link) | Leader | Time / Place | Notes |
 | ------------------ | ------ | ---- |-------|
 | "Bayesian computing with INLA: a review." ([link](https://www.annualreviews.org/doi/pdf/10.1146/annurev-statistics-060116-054045)) | Mike Smith | 14/10/21 4pm-5pm, Ada Lovelace | |
 | TBC (email me ideas!) | | 28/10/21 4pm-5pm, Ada Lovelace | |
@@ -49,29 +49,4 @@ Below is the provisional schedule for the sessions and leaders:
 Previous Meetings
 -----------------
 
-Journal Club:
-
-| Paper Title (link) | Leader | Time | Notes |
-| ------------------ | ------ | ---- |-------|
-|"Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks" ([link](https://arxiv.org/pdf/1703.03400.pdf)) | Fariba Yousefi | 21/01/21 4pm-5pm | |
-|"Temporal Phenotyping using Deep Predictive Clustering of Disease Progression" ([link](https://arxiv.org/pdf/2006.08600.pdf)) | Benediktas Valys | 28/01/21 4pm-5pm | |
-|"A Survey of Learning Causality with Data: Problems and Methods" ([link](https://arxiv.org/pdf/1809.09337.pdf)) | Mauricio Alvarez|18/02/21 4pm-5pm| |
-|"Unsupervised Visual Domain Adaptation:A Deep Max-Margin Gaussian Process Approach" | Chunchao Ma|04/03/21 4pm-5pm| |
-| TBA |Senee Kitimoon|18/03/21 4pm-5pm| |
-| TBA |Areeb Sherwani|01/04/21 4pm-5pm| |
-| TBA| Matthew Lyon  |15/04/21 4pm-5pm| |
-| TBA |Thomas McDonald|30/04/21 4pm-5pm| |
-
-Book Club:
-
-| Chapter/Section                     | Leader   | Time / Place     | Exercises    | Answers  |
-| ----------------------------------- | -------- | ---------------- |--------------|----------|
-| 1: Introduction                     | Magnus   | 05/11/20 4pm-6pm |              |          |
-| 2: Probability Distributions        | Mike     | 19/11/20 4pm-6pm | 2.45,2.19,2.36,2.5  | [Magnus'](https://raw.githubusercontent.com/SheffieldMLNet/sheffieldmlnet.github.io/source/content/bookclub/magnus_week_2.pdf) |              |          |
-| 3.1-3.2? Linear Models for Regression  | Nada   | 03/12/20 4pm-6pm | 3.1,3.4,3.8,3.11,3.18 and 3.24 |          |
-| 3.3-3.6 Linear Models for Regression | Chunchao | 17/12/20 4pm-6pm | Exercises 3.8, 3.11, 3.18 and 3.24  |          |
-| 4.1-4.2, Linear models for classification  | Matt     | 14/01/21 4pm-6pm |              |          |
-| 4.3-4.5, Linear models for classification  | Ben      | 28/01/21 4pm-6pm |              |          |
-| TBC... 8: Graphical Models      | Mauricio | 11/02/21 4pm-6pm |              |          |
-| TBC                                 | TBC      | TBC              |              |          |
-| Sampling (HMC)                      | Arthur Leroy | 21/10/21 |     |          |
+Previous meetings can be inferred from [this file's](https://github.com/SheffieldMLNet/sheffieldmlnet.github.io/blob/source/content/bookclub/_index.md) version history on github.
