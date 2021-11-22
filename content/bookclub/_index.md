@@ -44,6 +44,7 @@ Below is the provisional schedule for the sessions and leaders:
 | "Bayesian computing with INLA: a review." ([link](https://www.annualreviews.org/doi/pdf/10.1146/annurev-statistics-060116-054045)) | Mike Smith | 14/10/21 4pm-5pm, Ada Lovelace | |
 | TBC (email me ideas!) | | 28/10/21 4pm-5pm, Ada Lovelace | |
 | "Bayesian computing with INLA: a review." (second attempt!) ([link](https://www.annualreviews.org/doi/pdf/10.1146/annurev-statistics-060116-054045)) | Mike Smith | 11/11/21 4pm-5pm, Ada Lovelace | We had a lot of questions and didn't get to the end of the paper. Hopefully at this meeting we can work through the questions from last time. |
+| TBC  | TBC | 25/11/21 4pm-5pm, Ada Lovelace | |
 
 
 Previous Meetings
