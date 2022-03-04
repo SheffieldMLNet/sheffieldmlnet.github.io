@@ -47,8 +47,8 @@ Below is the provisional schedule for the sessions and leaders:
 | A tutorial "PDE-constrained optimization and the adjoint method" ([link](https://cs.stanford.edu/~ambrad/adjoint_tutorial.pdf) | Chris Lanyon | 25/11/21 4pm-5pm, Ada Lovelace | |
 | "Stein Variational Gradient Descent: A General Purpose Bayesian Inference Algorithm."Advances in Neural Information Processing Systems 29 (2016) ([link](https://arxiv.org/pdf/1608.04471.pdf) | Magnus Ross | 10/02/22 4pm-5pm, Ada Lovelace | |
 | no JC this week as Wessel Bruinsma is visiting to speak about "Meta-Learning as Prediction Map Approximation" | | 24/03/22 NA | |
-| -- | Mike Smith | 10/03/22 4pm-5pm, Ada Lovelace | |
 | Wilson, Andrew G., and Pavel Izmailov. "Bayesian deep learning and a probabilistic perspective of generalization." Advances in neural information processing systems 33 (2020): 4697-4708. ([link](https://proceedings.neurips.cc/paper/2020/file/322f62469c5e3c7dc3e58f5a4d1ea399-Paper.pdf)) | Mike Smith | 10/03/22 4pm-5pm, Ada Lovelace | |
+| TBC | TBC | 24/03/22 4pm-5pm, Ada Lovelace | |
 
 
 Previous Meetings
