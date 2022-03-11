@@ -5,3 +5,10 @@ The Machine Learning Research Network is a forum for researchers working with ma
 The aim of the network is to promote collaboration and to provide support for researchers and students who are working with or have interest in machine learning topics. We also promote the Open Data Science Initiative and the philosophy of resource sharing in the research community, particularly research software.
 
 The research network is open to anyone within the university, and aims to foster an accessible environment. If you would like to get involved with the network, you can come along to any of the activities we host, or get in touch.
+
+
+<ul class="network-icon" aria-hidden="true">
+  <li><a href="mailto:mlnet@sheffield.ac.uk" target="_blank" rel="noopener"><i class="fa fa-envelope big-icon"></i></a></li>
+  <li><a href="http://twitter.com/SheffieldMLNet" target="_blank" rel="noopener"><i class="fa fa-twitter big-icon"></i></a></li>
+  <li><a href="http://github.com/SheffieldMLNet" target="_blank" rel="noopener"><i class="fa fa-github big-icon"></i></a></li>
+</ul>
