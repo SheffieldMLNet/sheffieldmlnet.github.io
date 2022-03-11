@@ -33,10 +33,10 @@ Below is the provisional schedule for the sessions and leaders:
 
 ## Previous
 
- - 9th July, 2020. Multi-resolution Multi-task Gaussian Processes: London air pollution. Ollie Hamelijnck, The Alan Turing Institute, London.
- - 2nd July 2020. Learning Theory for Continual and Meta-Learning. Prof Christoph Lampert, Institute of Science and Technology Austria.
- - 18th June, 2020. Neural circuit redundancy, stability, and variability in developmental brain disorders. Dr Cian O'Donnell, University of Bristol.
- - 11th June, 2020. The geometry of abstraction in artificial and biological neural networks. Prof Stefano Fusi, Columbia University, USA.
+ - 9th July, 2020. Multi-resolution Multi-task Gaussian Processes: London air pollution. Ollie Hamelijnck, The Alan Turing Institute, London. [video](https://www.crowdcast.io/e/ollie-hamelijnck-world)
+ - 2nd July 2020. Learning Theory for Continual and Meta-Learning. Prof Christoph Lampert, Institute of Science and Technology Austria. [video](https://www.crowdcast.io/e/christoph-lampert-world)
+ - 18th June, 2020. Neural circuit redundancy, stability, and variability in developmental brain disorders. Dr Cian O'Donnell, University of Bristol. [video](https://www.crowdcast.io/e/cian-odonnell-world-wide)
+ - 11th June, 2020. The geometry of abstraction in artificial and biological neural networks. Prof Stefano Fusi, Columbia University, USA. [video](https://www.crowdcast.io/e/stefano-fusi-world-wide)
 
 # Who we are
 
