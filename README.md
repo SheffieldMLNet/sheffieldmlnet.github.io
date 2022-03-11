@@ -24,8 +24,7 @@ Below is the provisional schedule for the sessions and leaders:
 | (No JC this week as Wessel Bruinsma is visiting to speak about "Meta-Learning as Prediction Map Approximation") | | 24/02/22 | |
 | "Stein Variational Gradient Descent: A General Purpose Bayesian Inference Algorithm."Advances in Neural Information Processing Systems 29 (2016) ([link](https://arxiv.org/pdf/1608.04471.pdf) | Magnus Ross | 10/02/22 4pm-5pm, Ada Lovelace | |
 | A tutorial "PDE-constrained optimization and the adjoint method" ([link](https://cs.stanford.edu/~ambrad/adjoint_tutorial.pdf) | Chris Lanyon | 25/11/21 4pm-5pm, Ada Lovelace | |
-| 11/11/21 4pm-5pm, Ada Lovelace | We had a lot of questions and didn't get to the end of the paper. Hopefully at this meeting we can work through the questions from last time. |
-| "Bayesian computing with INLA: a review." (second attempt!) ([link](https://www.annualreviews.org/doi/pdf/10.1146/annurev-statistics-060116-054045)) | Mike Smith 
+| "Bayesian computing with INLA: a review." (second attempt!) ([link](https://www.annualreviews.org/doi/pdf/10.1146/annurev-statistics-060116-054045)) | Mike Smith | 11/11/21 4pm-5pm, Ada Lovelace | We had a lot of questions and didn't get to the end of the paper. Hopefully at this meeting we can work through the questions from last time. |
 | "Bayesian computing with INLA: a review." ([link](https://www.annualreviews.org/doi/pdf/10.1146/annurev-statistics-060116-054045)) | Mike Smith | 14/10/21 4pm-5pm, Ada Lovelace | |
 
 
