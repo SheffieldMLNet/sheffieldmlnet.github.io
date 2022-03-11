@@ -8,8 +8,8 @@ These currently include a regular seminar series and a fortnightly journal club.
 
 The aim of the network is to promote collaboration and to provide support for researchers and students who are working with or have interest in machine learning topics. We also promote the [Open Data Science Initiative](http://opendsi.cc/) and the philosophy of resource sharing in the research community, particularly research software.
 
-<a href="mailto:mlnet@sheffield.ac.uk" target="_blank" rel="noopener">email</i></a> | 
-<a href="http://twitter.com/SheffieldMLNet" target="_blank" rel="noopener">twitter</i></a>
+<a href="mailto:mlnet@sheffield.ac.uk" target="_blank" rel="noopener">email</a> | 
+<a href="http://twitter.com/SheffieldMLNet" target="_blank" rel="noopener">twitter</a>
 
 # Journal Club
 
