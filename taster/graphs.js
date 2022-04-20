@@ -272,7 +272,7 @@ $(function() {
     }
     
     //var width = $(".w3-twothird").width();
-    var width = 500;
+    var width = 650;
     var height = 345;
     var gridres = 15;
     r = Raphael("chart", width, height+50);
@@ -416,7 +416,12 @@ $(function() {
     drawnetwork(num_n,inputlabels);    
     setTimeout( function() { ready = true;
         for (weightidx=0;weightidx<getnumweights(num_n);weightidx++){
-            $('#w'+weightidx).val(slider_resolution*(10*Math.random()-5));
+            n = slider_resolution*(10*Math.random()-5)
+            if ((n>-1) && (n<1))     
+            {
+                n=1;
+            } //hack to avoid nearly zero mess.
+            $('#w'+weightidx).val(n);
 
         }
         $('input').trigger('change');        
