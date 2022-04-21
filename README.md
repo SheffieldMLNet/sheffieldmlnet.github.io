@@ -19,7 +19,7 @@ Below is the provisional schedule for the sessions and leaders:
 
 | Paper Title (link) | Leader | Time / Place | Notes |
 | ------------------ | ------ | ---- |-------|
-| Spatio-Temporal Statistics with R; Chapter 5: Dynamic Spatio-Temporal Models ([link](https://spacetimewithr.org/Spatio-Temporal%20Statistics%20with%20R.pdf)) | (TBC) | ~~21/04/22~~ ~~28/04/22~~ 05/05/22 4pm-5pm, Ada Lovelace | Note it's moved back ~~one~~ two weeks! |
+| Spatio-Temporal Statistics with R; Chapter 5: Dynamic Spatio-Temporal Models ([link](https://spacetimewithr.org/Spatio-Temporal%20Statistics%20with%20R.pdf)) | Chris and Richard | ~~21/04/22~~ ~~28/04/22~~ 05/05/22 4pm-5pm, Ada Lovelace | Note it's moved back ~~one~~ two weeks! |
 | Collett, Thomas S., et al. "Coordinating compass-based and nest-based flight directions during bumblebee learning and return flights." Journal of Experimental Biology 216.6 (2013): 1105-1113. ([link](https://journals.biologists.com/jeb/article/216/6/1105/11935)) | Mike Smith | 07/04/22 4pm-5pm, Ada Lovelace | |
 | Wilson, Andrew G., and Pavel Izmailov. "Bayesian deep learning and a probabilistic perspective of generalization." Advances in neural information processing systems 33 (2020): 4697-4708. ([link](https://proceedings.neurips.cc/paper/2020/file/322f62469c5e3c7dc3e58f5a4d1ea399-Paper.pdf)) | Mike Smith | ~~10/03/22~~ 17/03/22 4pm-5pm, Ada Lovelace | (delayed a week) |
 | | | 24/02/22 | (No JC this week as Wessel Bruinsma is visiting to speak about "Meta-Learning as Prediction Map Approximation") |
