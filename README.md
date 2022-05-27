@@ -14,7 +14,7 @@ The aim of the network is to promote collaboration and to provide support for re
 
 <p>
 <img src="https://inverseprobability.com/assets/neil11-320x240.jpg" style="float" align="right" />
-<b><a href="https://inverseprobability.com/">Neil Lawrence</a></b> is coming to speak on the <b>17th June</b>:
+<b><a href="https://inverseprobability.com/">Neil Lawrence</a></b> is coming to speak on the <b>17th June</b>!<br/></br>
 
 Title: Understanding Artificial Intelligence [TBC]<br/>
 Where: Diamond, DIA - Lecture Theatre 3<br/>
