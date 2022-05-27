@@ -4,12 +4,29 @@ The Machine Learning Research Network is a forum for ML researchers, based at th
 
 Coordinated by the [Machine Learning group](https://www.sheffield.ac.uk/dcs/research/groups/machine-learning) in the Department of Computer Science, with support from the Statistics group in the School of Mathematics and Statistics, we host a series of activities and events. 
 
-These currently include a regular seminar series and a fortnightly journal club.
-
 The aim of the network is to promote collaboration and to provide support for researchers and students who are working with or have interest in machine learning topics. We also promote the [Open Data Science Initiative](http://opendsi.cc/) and the philosophy of resource sharing in the research community, particularly research software.
 
 <a href="mailto:mlnet@sheffield.ac.uk" target="_blank" rel="noopener">email</a> | 
 <a href="http://twitter.com/SheffieldMLNet" target="_blank" rel="noopener">twitter</a>
+
+
+# Upcoming Event: Neil Lawrence "Understanding AI"
+
+<p>
+<img src="https://inverseprobability.com/assets/neil11-320x240.jpg" style="float" align="right" />
+<b><a href="https://inverseprobability.com/">Neil Lawrence</a></b> is coming to speak on the <b>17th June</b>:
+
+Title: Understanding Artificial Intelligence [TBC]<br/>
+Where: Diamond, DIA - Lecture Theatre 3<br/>
+Date: Friday, 17th June, 2022<br/>
+Time: Start: 17:00, followed by drinks, etc at 18:00.<br/>
+ 
+Abstract: TBC
+ 
+Neil previously was Professor of machine learning here in Sheffield. Then continued to develop applied probabilistic machine learning while director of machine learning at Amazon in Cambridge. Then, in 2019, Neil was appointed as the inaugural DeepMind Professor of Machine Learning at the University of Cambridge.
+ 
+To find out more about this event, <a href="mailto:m.t.smith@sheffield.ac.uk">email</a> us.
+</p>
 
 # Journal Club
 
