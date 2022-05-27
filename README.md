@@ -19,9 +19,11 @@ The aim of the network is to promote collaboration and to provide support for re
 Title: Understanding Artificial Intelligence [TBC]<br/>
 Where: Diamond, DIA - Lecture Theatre 3<br/>
 Date: Friday, 17th June, 2022<br/>
-Time: 16:30 (talk starts at 17:00).
+Time: 16:30 (talk starts at 17:00). <br/>
+ <br/>
 Abstract: TBC
 <br/>
+ <br/>
 Neil previously was Professor of machine learning here in Sheffield. He continued to develop applied probabilistic machine learning while director of machine learning at Amazon in Cambridge. Then, in 2019, Neil was appointed as the inaugural DeepMind Professor of Machine Learning at the University of Cambridge.
  <br/>
  <b>Mini poster session</b>
