@@ -20,17 +20,17 @@ Title: Understanding Artificial Intelligence [TBC]<br/>
 Where: Diamond, DIA - Lecture Theatre 3<br/>
 Date: Friday, 17th June, 2022<br/>
 Time: Pre-talk drinks/food 16:30-17:00; Talk 17:00-18:00; Drinks/food following talk 18:00-18:30.<br/>
- 
+<br/>
 Abstract: TBC
- 
+<br/>
 Neil previously was Professor of machine learning here in Sheffield. He continued to develop applied probabilistic machine learning while director of machine learning at Amazon in Cambridge. Then, in 2019, Neil was appointed as the inaugural DeepMind Professor of Machine Learning at the University of Cambridge.
- 
+ <br/>
  <b>Mini poster session</b>
- 
+  <br/>
 If you're working in the field of ML (in particular early careers, or PhD, MSc) we'd be very happy to have your posters up before/after the talk.
- 
+  <br/>
  <b>Contact</b>
- 
+  <br/>
 To find out more about this event, <a href="mailto:m.t.smith@sheffield.ac.uk">email</a> us.
 </p>
 
