@@ -16,12 +16,12 @@ The aim of the network is to promote collaboration and to provide support for re
 <img src="https://inverseprobability.com/assets/neil11-320x240.jpg" style="float" align="right" />
 <b><a href="https://inverseprobability.com/">Neil Lawrence</a></b> is coming to speak on the <b>17th June</b>!<br/><br/>
 
-Title: Understanding Artificial Intelligence [TBC]<br/>
+Title: Deep Gaussian Processes: A Motivation and Introduction<br/>
 Where: Diamond, DIA - Lecture Theatre 3<br/>
 Date: Friday, 17th June, 2022<br/>
 Time: 16:30 (talk starts at 17:00). <br/>
  <br/>
-Abstract: TBC
+Abstract: Modern machine learning methods have driven significant advances in artificial intelligence, with notable examples coming from Deep Learning, enabling super-human performance in the game of Go and highly accurate prediction of protein folding e.g. AlphaFold. In this talk we look at deep learning from the perspective of Gaussian processes. Deep Gaussian processes extend the notion of deep learning to propagate uncertainty alongside function values. We’ll explain why this is important and show some simple examples.
 <br/>
  <br/>
 Neil previously was Professor of machine learning here in Sheffield. He continued to develop applied probabilistic machine learning while director of machine learning at Amazon in Cambridge. Then, in 2019, Neil was appointed as the inaugural DeepMind Professor of Machine Learning at the University of Cambridge.
