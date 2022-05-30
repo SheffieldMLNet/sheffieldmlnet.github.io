@@ -10,7 +10,7 @@ The aim of the network is to promote collaboration and to provide support for re
 <a href="http://twitter.com/SheffieldMLNet" target="_blank" rel="noopener">twitter</a>
 
 
-# Upcoming Event: Neil Lawrence "Understanding Artificial Intelligence"
+# Upcoming Event: Neil Lawrence "Deep Gaussian Processes: A Motivation and Introduction"
 
 <p>
 <img src="https://inverseprobability.com/assets/neil11-320x240.jpg" style="float" align="right" />
