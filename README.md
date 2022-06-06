@@ -1,15 +1,3 @@
-# About the network
-
-The Machine Learning Research Network is a forum for ML researchers, based at the University of Sheffield. 
-
-Coordinated by the [Machine Learning group](https://www.sheffield.ac.uk/dcs/research/groups/machine-learning) in the Department of Computer Science, with support from the Statistics group in the School of Mathematics and Statistics, we host a series of activities and events. 
-
-The aim of the network is to promote collaboration and to provide support for researchers and students who are working with or have interest in machine learning topics. We also promote the [Open Data Science Initiative](http://opendsi.cc/) and the philosophy of resource sharing in the research community, particularly research software.
-
-<a href="mailto:mlnet@sheffield.ac.uk" target="_blank" rel="noopener">email</a> | 
-<a href="http://twitter.com/SheffieldMLNet" target="_blank" rel="noopener">twitter</a>
-
-
 # Upcoming Event: Neil Lawrence "Deep Gaussian Processes: A Motivation and Introduction"
 
 <p>
@@ -36,6 +24,17 @@ If you're working in the field of ML (in particular early careers, or PhD, MSc) 
   <br/>
 To find out more about this event, <a href="mailto:m.t.smith@sheffield.ac.uk">email</a> us.
 </p>
+
+# About the network
+
+The Machine Learning Research Network is a forum for ML researchers, based at the University of Sheffield. 
+
+Coordinated by the [Machine Learning group](https://www.sheffield.ac.uk/dcs/research/groups/machine-learning) in the Department of Computer Science, with support from the Statistics group in the School of Mathematics and Statistics, we host a series of activities and events. 
+
+The aim of the network is to promote collaboration and to provide support for researchers and students who are working with or have interest in machine learning topics. We also promote the [Open Data Science Initiative](http://opendsi.cc/) and the philosophy of resource sharing in the research community, particularly research software.
+
+<a href="mailto:mlnet@sheffield.ac.uk" target="_blank" rel="noopener">email</a> | 
+<a href="http://twitter.com/SheffieldMLNet" target="_blank" rel="noopener">twitter</a>
 
 # Journal Club
 
