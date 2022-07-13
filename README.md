@@ -1,3 +1,15 @@
+# Upcoming Event
+
+On Friday Professor Ivan Tyukin is coming to give a presentation on his research work. Ivan's mathematical approach proposes a fascinating theory on learning in artificial neural networks. In particular, his recent work offers insights on how it is possible to robustly achieve few-shot learning.
+For more information, you can visit <a href="https://le.ac.uk/people/ivan-tyukin">Ivan's website</a>.
+
+I hope to see you at the talk.
+
+Date: <b>Friday, 15th July, 2022</b><br/>
+Where: <b>Ada Lovelace room, Computer Science, Regent Court, Sheffield</b><br/>
+Time: <b>16:00</b><br/>
+
+
 # About the network
 
 The Machine Learning Research Network is a forum for ML researchers, based at the University of Sheffield. 
