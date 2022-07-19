@@ -1,15 +1,3 @@
-# Upcoming Event
-
-On Friday Professor Ivan Tyukin is coming to give a presentation on his research work. Ivan's mathematical approach proposes a fascinating theory on learning in artificial neural networks. In particular, his recent work offers insights on how it is possible to robustly achieve few-shot learning.
-For more information, you can visit <a href="https://le.ac.uk/people/ivan-tyukin">Ivan's website</a>.
-
-I hope to see you at the talk.
-
-Date: <b>Friday, 15th July, 2022</b><br/>
-Where: <b>Ada Lovelace room, Computer Science, Regent Court, Sheffield</b><br/>
-Time: <b>16:00</b><br/>
-
-
 # About the network
 
 The Machine Learning Research Network is a forum for ML researchers, based at the University of Sheffield. 
@@ -44,6 +32,7 @@ Below is the provisional schedule for the sessions and leaders:
 
 ## Previous
 
+- 15th July, 2022. Learning in artificial neural networks. Professor Ivan Tyukin.
 - 17th June, 2022. Deep Gaussian Processes: A Motivation and Introduction. Neil Lawrence.
  - 9th July, 2020. Multi-resolution Multi-task Gaussian Processes: London air pollution. Ollie Hamelijnck, The Alan Turing Institute, London. [video](https://www.crowdcast.io/e/ollie-hamelijnck-world)
  - 2nd July 2020. Learning Theory for Continual and Meta-Learning. Prof Christoph Lampert, Institute of Science and Technology Austria. [video](https://www.crowdcast.io/e/christoph-lampert-world)
@@ -54,6 +43,11 @@ Below is the provisional schedule for the sessions and leaders:
 
 Some of those involved, include:
 
- - [Mauricio Alvarez](https://www.sheffield.ac.uk/dcs/people/academic/mauricio-alvarez)
- - [Mike Smith](http://michaeltsmith.org.uk/)
- - [Wil Ward](https://wilocw.github.io/)
+- [Mike Smith](http://michaeltsmith.org.uk/)
+- [Prof Eleni Vasilaki](https://www.sheffield.ac.uk/dcs/people/academic/evasilaki/profile)
+- [Luca Manneschi](https://www.sheffield.ac.uk/dcs/people/academic/luca-manneschi)
+- [Matt Ellis](https://www.sheffield.ac.uk/dcs/people/academic/matt-ellis)
+- [Haiping Lu](https://www.sheffield.ac.uk/dcs/people/academic/hlu)
+
+Also, visit the [Sheffield machine learning group](https://www.sheffield.ac.uk/dcs/research/groups/machine-learning).
+
